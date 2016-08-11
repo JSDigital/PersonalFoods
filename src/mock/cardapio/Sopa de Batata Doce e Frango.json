@@ -1,0 +1,53 @@
+{
+  "name": "Sopa de Batata Doce e Frango",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Leve, mas nutritiva. Deixa nossa deliciosa sopa entrar em sua dieta.",
+  "quant":"400g",
+  "preco":{
+    "client":12.90,
+    "off":12.90
+  },
+  "ingredients": [
+    "BATATA DOCE",
+    "FRANGO",
+    "CEBOLA",
+    "AZEITE EXTRA VIRGEM",
+    "SAL ROSA DO HIMALAIA",
+    "ALHO",
+    "SALSA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"350 kcal - 1466 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"73g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"7,2g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"3,4g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"0,71g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"6,7g"
+    },
+    {
+      "name":"Sódio",
+      "val":"48mg"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Wrap de Banana com Chocolate",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Para a sobremesa ficar mais leve, um wrap com zero de gordura trans e muito sabor.",
+  "quant":"150g",
+  "preco":{
+    "client":11.90,
+    "off":11.90
+  },
+  "ingredients": [
+    "BANANA",
+    "LEITE DESNATADO UHT",
+    "OVO",
+    "CACAU EM PÓ",
+    "CHOCOLATE MEIO AMARGO",
+    "FARINHA DE TRIGO INTEGRAL",
+    "LEITE DESNATADO EM PÓ",
+    "FÉCULA DE MANDIOCA",
+    "ADOÇANTE CULINÁRIO",
+    "SAL ROSA DO HIMALAIA",
+    "NOZ MOSCADA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"241 kcal - 1007 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"39g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"8,6g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"5,8g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,9g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"4,6g"
+    },
+    {
+      "name":"Sódio",
+      "val":"74mg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Abobrinha Italiana ao Vapor",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Complete sua refeição com o toque da nossa abobrinha italiana ao vapor.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "ABOBRINHA ITALIANA",
+    "SAL ROSA DO HIMALAIA",
+    "AZEITE DE OLIVA EXTRA VIRGEM"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"27 kcal - 112 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"4,3g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"1,1g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"0,59g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"1,4g"
+    },
+    {
+      "name":"Sódio",
+      "val":"1,9mg"
+    }
+  ]
+}

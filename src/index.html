@@ -1,0 +1,74 @@
+<!doctype html>
+<html class="no-js" lang="" ng-app="personalModule">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=.5">
+	<link href='https://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+
+	<link rel="apple-touch-icon" href="apple-touch-icon.png">
+	<!-- Place favicon.ico in the root directory -->
+
+	<link rel="stylesheet" href="css/main.css">
+
+</head>
+<body ng-controller="mainCtrl">
+	<div class="menu" ng-click="openMenu()" ng-hide="getClass('/buywithus') == 'active'">
+		<div class="wrapper">
+			<div ng-click="switchPage('home')" class="logo"></div>
+			<ul>
+				<li ng-class="getClass('/home')" ng-click="switchPage('home')" class="menu-item" >Home</li>
+				<li ng-class="getClass('/menu')" ng-click="switchPage('menu')" class="menu-item">Cardápio</li>
+				<li ng-class="getClass('/about')" ng-click="switchPage('about')" class="menu-item">Quem somos</li>
+				<li ng-class="getClass('/find')" ng-click="switchPage('find')" class="menu-item">Onde encontrar</li>
+				<li ng-class="getClass('/workwithus')" ng-click="switchPage('workwithus')" class="menu-item">Trabalhe conosco</li>
+			</ul>
+			<div class="social">
+				<a href="https://www.facebook.com/personalfoods01/?fref=ts" target="_blank"><div class="buttons fb"></div></a>
+				<a href="https://www.instagram.com/personalfoodsoficial/" target="_blank"><div class="buttons insta"></div></a>
+			</div>
+		</div>
+	</div>
+	<section ui-view class="wrapper main"></section>
+	<div class="footer">
+		<div>
+			<div class="logo"></div>
+			<div class="text-box">
+				<div class="title">Personal Foods, Time is not money, time is life.</div>
+				<div class="text">All rights are reserved 2016</div>
+			</div>
+		</div>
+	</div>
+
+
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDySF4tntr9s39xEk3wxa2y4bK-vfu44iU"></script>
+
+	<!-- BASE -->
+	<script src="js/vendor/scripts.js"></script>
+	<script src="js/app.js"></script>
+
+	<!-- UTILS -->
+	<script src="js/utils/maps.js"></script>
+	<script src="js/filter.js"></script>
+
+	<!-- SERVICES -->
+	<script src="js/services/services.js"></script>
+
+	<!-- CONFIGS -->
+	<script src="js/config/routers.js"></script>
+
+	<!-- CONTROLLERS -->
+	<script src="js/controllers/homeCtrl.js"></script>
+	<script src="js/controllers/aboutCtrl.js"></script>
+	<script src="js/controllers/workCtrl.js"></script>
+	<script src="js/controllers/findCtrl.js"></script>
+	<script src="js/controllers/menuCtrl.js"></script>
+	<script src="js/controllers/buyCtrl.js"></script>
+	<script src="js/controllers/mainCtrl.js"></script>
+
+
+
+</body>
+</html>

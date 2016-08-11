@@ -1,0 +1,95 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+.find{
+  .header{
+    width:100%;
+    height: 540px;
+    position:relative;
+    background:url(assets/images/find/header.jpg) no-repeat center center;
+    background-size:cover;
+    @include flex-center;
+
+    .big-uncolor{
+      font-family:$font-primary-bold;
+      font-weight:bold;
+      color:#fff;
+      width:788px;
+      margin:10px auto 0 auto;
+      font-size:50px;
+      text-align: center;
+      line-height:50px;
+
+      @media (max-width:$mob-width){
+        width:90%;
+      }
+    }
+
+    .little-primary{
+      width:100%;
+      text-align:center;
+      font-family:$font-primary-regular;
+      color:$primary-color;
+      font-size:12px;
+    }
+  }
+  .map-wrapper{
+    height: 1080px;
+    position:relative;
+
+    .tab{
+      width: 590px;
+      height: 470px;
+      background:$primary-color;
+      @include flex-center;
+      position:absolute;
+      z-index:1;
+      transform: translate(calc(-50% - 570px /2), 0);
+      left: 50%;
+      padding-bottom:50px;
+
+      @media (max-width:$mob-width){
+        position:relative;
+        width:100%;
+        left:0;
+        transform:translate(0, 0);
+        padding:0 30px;
+      }
+    }
+
+    .map{
+      width:100%;
+      height: 100%;
+    }
+  }
+
+  .big-uncolor{
+    font-family:$font-primary-bold;
+    font-weight:bold;
+    color:#fff;
+    width:430px;
+    margin:10px 0 0 0;
+    font-size:50px;
+    text-align: left;
+    line-height:50px;
+
+    @media (max-width:$mob-width){
+      width:90%;
+    }
+  }
+
+
+  .little-uncolor{
+    width:430px;
+    text-align:left;
+    font-family:$font-primary-regular;
+    color:#fff;
+    font-size:12px;
+    margin:50px 0 0 0;
+
+    @media (max-width:$mob-width){
+      width:70%;
+    }
+  }
+}
+

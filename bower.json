@@ -1,0 +1,27 @@
+{
+  "name": "default",
+  "version": "0.0.0",
+  "homepage": "https://github.com/juliosgarbi/boiler",
+  "authors": [
+    "Julio Sgarbi <contato@juliosgarbi.com.br>"
+  ],
+  "description": "boilerplate",
+  "main": "src/index.html",
+  "keywords": [
+    "boiler"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.8",
+    "angular-ui-router": "ui-router#~0.2.15",
+    "angular-animate": "~1.4.8",
+    "instafeed.js": "^1.4.1"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Purê de batata",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Esqueça a fritura, a batata pode ficar ainda melhor em um purê com poucas calorias.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "BATATA ASTERIX",
+    "LEITE DESNATADO",
+    "AZEITE DE OLIVA EXTRA VIRGEM",
+    "SAL ROSA DO HIMALAIA",
+    "LOURO",
+    "PIMENTA EM GRÃO",
+    "TOMILHO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"82 kcal - 343 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"17g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"2,0g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"1,2g"
+    },
+    {
+      "name":"Sódio",
+      "val":"4,8mg"
+    }
+  ]
+}

@@ -1,0 +1,1912 @@
+[
+	{
+		"category": "proteínas",
+		"products": [
+			{
+				"name": "Filé de Frango Grelhado",
+				"image":"images/menu/frango-grelhado.jpg",
+				"desc":"Para um almoço ou jantar saboroso. Excelente opção para combinar com arroz integral e legumes.",
+				"quant":"100g",
+				"price":{
+					"client":9.90,
+					"off":9.90
+				},
+				"ingredients": [
+					"PEITO DE FRANGO SEM PELE",
+					"SAL ROSA DO HIMALAIA",
+					"TEMPEROS NATURAIS"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"121 kcal - 506 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"Zero"
+					},
+					{
+						"name":"Proteínas",
+						"val":"24g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"2,8g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,0g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"Zero"
+					},
+					{
+						"name":"Sódio",
+						"val":"63mg"
+					}
+				]
+			},
+			{
+				"name": "Frango Desfiado com Vegetais",
+				"image":"images/menu/frango-desfiado.jpg",
+				"desc":"Poucas calorias e muito sabor para seu almoço ou jantar saudável.",
+				"quant":"100g",
+				"price":{
+					"client":9.90,
+					"off":9.90
+				},
+				"ingredients": [
+					"PEITO DE FRANGO SEM PELE COZIDO",
+					"MILHO GRÃO COZIDOS",
+					"ERVILHA SECA COZIDA",
+					"CEBOLA",
+					"SAL ROSA DO HIMALAIA",
+					"ALHO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"135 kcal - 566 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"6,8g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"22g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"2,4g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"0,75g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"0,89g"
+					},
+					{
+						"name":"Sódio",
+						"val":"27mg"
+					}
+				]
+			},
+			{
+				"name": "Filé de Frango Empanado",
+				"image":"images/menu/frango-empenado.jpg",
+				"desc":"Frango é sempre uma boa pedida para a sua dieta. Ainda mais, se ele é preparado com temperos naturais e ingredientes mais saudáveis.",
+				"quant":"100g",
+				"price":{
+					"client":12.90,
+					"off":12.90
+				},
+				"ingredients": [
+					"PEITO DE FRANGO SEM PELE",
+					"SAL ROSA DO HIMALAIA",
+					"TEMPEROS NATURAIS",
+					"FARELO DE AVEIA",
+					"OVO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"125 kcal - 522 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"0,58g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"24g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"2,9g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,0g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"Zero"
+					},
+					{
+						"name":"Sódio",
+						"val":"56mg"
+					}
+				]
+			},
+			{
+				"name": "Carne Bovina Moída (Patinho)",
+				"image":"images/menu/carne-moida.jpg",
+				"desc":"Uma ótima sugestão para completar nossos legumes a vapor. Confira o cardápio e escolha suas opções.",
+				"quant":"100g",
+				"price":{
+					"client":11.90,
+					"off":11.90
+				},
+				"ingredients": [
+					"CARNE BOVINA (PATINHO)",
+					"TOMATE",
+					"CEBOLA",
+					"SAL ROSA DO HIMALAIA",
+					"AZEITE DE OLIVA EXTRA VIRGEM",
+					"ALHO",
+					"TOMILHO",
+					"PIMENTA BRANCA E NEGRA",
+					"LOURO",
+					"CEBOLINHA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"103 kcal - 432 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"1,0g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"16g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"3,8g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,5g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"Zero"
+					},
+					{
+						"name":"Sódio",
+						"val":"41mg"
+					}
+				]
+			},
+			{
+				"name": "Strogonoff de Frango Light",
+				"image":"images/menu/strogonoff.jpg",
+				"desc":"Receita menos calórica e mais saudável de um clássico da culinária brasileira.",
+				"quant":"100g",
+				"price":{
+					"client":13.90,
+					"off":13.90
+				},
+				"ingredients": [
+					"PEITO DE FRANGO SEM PELE COZIDO",
+					"LEITE DESNATADO UHT",
+					"BIOMASSA DE BANANA VERDE",
+					"SAL ROSA DO HIMALAIA",
+					"PIMENTA BRANCA",
+					"CEBOLA",
+					"TOMATE",
+					"LOURO",
+					"CRAVO",
+					"NOZ MOSCADA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"172 kcal - 718 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"1,3g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"34g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"3,4g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,2g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"0,75g"
+					},
+					{
+						"name":"Sódio",
+						"val":"56mg"
+					}
+				]
+			},
+			{
+				"name": "Filé de St. Peter Grelhado",
+				"image":"images/menu/st-peter.jpg",
+				"desc":"Peixe temperado na medida para surpreender o seu paladar e manter a boa forma.",
+				"quant":"100g",
+				"price":{
+					"client":13.90,
+					"off":13.90
+				},
+				"ingredients": [
+					"ST. PETER",
+					"SAL ROSA DO HIMALAIA",
+					"AZEITE DE OLIVA EXTRA VIRGEM",
+					"TOMILHO",
+					"PIMENTA BRANCA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"127 kcal - 532 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"Zero"
+					},
+					{
+						"name":"Proteínas",
+						"val":"27g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"2,2g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,0g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"Zero"
+					},
+					{
+						"name":"Sódio",
+						"val":"61mg"
+					}
+				]
+			},
+			{
+				"name": "Filé de Salmão Grelhado",
+				"image":"images/menu/salmao-grelhado.jpg",
+				"desc":"Para os amantes de peixe e saúde, uma combinação perfeita.",
+				"quant":"100g",
+				"price":{
+					"client":14.90,
+					"off":14.90
+				},
+				"ingredients": [
+					"SALMÃO",
+					"AZEITE DE OLIVA EXTRA VIRGEM",
+					"SAL ROSA DO HIMALAIA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"179 kcal - 749 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"Zero"
+					},
+					{
+						"name":"Proteínas",
+						"val":"22g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"10g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,9g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"Zero"
+					},
+					{
+						"name":"Sódio",
+						"val":"111mg"
+					}
+				]
+			},
+			{
+				"name": "Kibe Assado de Quinua",
+				"image":"images/menu/kibe.jpg",
+				"desc":"Mais leve e saudável que o kibe tradicional. Mas, mantendo um sabor de primeira.",
+				"quant":"100g",
+				"price":{
+					"client":9.90,
+					"off":9.90
+				},
+				"ingredients": [
+					"CARNE BOVINA (PATINHO)",
+					"QUINUA EM GRÃOS",
+					"FARELO DE AVEIA",
+					"CEBOLA",
+					"OVO",
+					"AZEITE EXTRA VIRGEM",
+					"SAL ROSA DO HIMALAIA",
+					"CEBOLA",
+					"ALHO",
+					"SALSA",
+					"TOMILHO",
+					"HORTELÃ"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"171 kcal - 715 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"9,0g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"17g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"7,5g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,7g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"3,4g"
+					},
+					{
+						"name":"Sódio",
+						"val":"50mg"
+					}
+				]
+			},
+			{
+				"name": "Framelete",
+				"image":"images/menu/framelete.jpg",
+				"desc":"Saudável, saboroso e nutritivo: nosso omelete de frango fará sucesso na sua mesa.",
+				"quant":"100g",
+				"price":{
+					"client":9.90,
+					"off":9.90
+				},
+				"ingredients": [
+					"FRANGO COZIDO DESFIADO",
+					"OVO DE GALINHA",
+					"TOMATE",
+					"SAL ROSA DO HIMALAIA",
+					"CEBOLA",
+					"SALSA",
+					"ALHO",
+					"PIMENTA BRANCA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"108 kcal - 450 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"1,9g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"12g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"5,8g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,7g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"Zero"
+					},
+					{
+						"name":"Sódio",
+						"val":"110mg"
+					}
+				]
+			}
+		]
+	},
+	{
+		"category": "carboidratos",
+		"products": [
+			{
+				"name": "Batata Doce Grelhada",
+				"image":"images/menu/batata-doce.jpg",
+				"desc":"Um tradicional sucesso procurado por quem quer uma dieta saudável e saborosa.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"BATATA DOCE",
+					"SAL ROSA DO HIMALAIA",
+					"AZEITE DE OLIVA EXTRA VIRGEM",
+					"TOMILHO",
+					"PIMENTA BRANCA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"120 kcal - 502 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"28g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"1,3g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"2,5g"
+					},
+					{
+						"name":"Sódio",
+						"val":"15mg"
+					}
+				]
+			},
+			{
+				"name": "Purê de batata doce",
+				"image":"images/menu/pure-batata-doce.jpg",
+				"desc":"Para quem mantém uma vida fitness, batata doce não pode faltar. Ainda mais em um delicioso purê.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"BATATA DOCE",
+					"LEITE DESNATADO",
+					"AZEITE DE OLIVA EXTRA VIRGEM",
+					"SAL ROSA DO HIMALAIA",
+					"LOURO",
+					"PIMENTA EM GRÃO",
+					"TOMILHO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"120 kcal - 503 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"28g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"1,3g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"2,6g"
+					},
+					{
+						"name":"Sódio",
+						"val":"10mg"
+					}
+				]
+			},
+			{
+				"name": "Purê de Mandioquinha",
+				"image":"images/menu/pure-mandioquinha.jpg",
+				"desc":"A cozinha típica mineira de um jeito light e saudável para completar o prato.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"MANDIOQUINHA",
+					"LEITE DESNATADO",
+					"AZEITE DE OLIVA EXTRA VIRGEM",
+					"SAL ROSA DO HIMALAIA",
+					"LOURO",
+					"PIMENTA EM GRÃO",
+					"TOMILHO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"128 kcal - 536 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"29g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"1,5g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"0,68g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"0,59g"
+					},
+					{
+						"name":"Sódio",
+						"val":"62mg"
+					}
+				]
+			},
+			{
+				"name": "Purê de abóbora",
+				"image":"images/menu/pure-abobora.jpg",
+				"desc":"Adicione carboidrato e proteínas ao seu prato. O purê é muito bem vindo junto a carne moída ou frango.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"ABÓBORA CABOTIAN",
+					"LEITE DESNATADO",
+					"AZEITE DE OLIVA EXTRA VIRGEM",
+					"SAL ROSA DO HIMALAIA",
+					"LOURO",
+					"PIMENTA EM GRÃO",
+					"TOMILHO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"47 kcal - 195 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"8,3g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"1,4g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"0,88g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"2,2"
+					},
+					{
+						"name":"Sódio",
+						"val":"3,1mg"
+					}
+				]
+			},
+			{
+				"name": "Arroz Integral",
+				"image":"images/menu/arroz-integral.jpg",
+				"desc":"De falta de sabor você não vai poder reclamar. Nosso arroz integral é feito com ingredientes que dão um toque a mais ao prato.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"ARROZ INTEGRAL",
+					"SAL ROSA DO HIMALAIA",
+					"CEBOLA",
+					"ALHO",
+					"TOMILHO",
+					"LOURO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"310 kcal - 1297 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"66g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"7,4g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"1,9g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"0,28g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"4,6g"
+					},
+					{
+						"name":"Sódio",
+						"val":"16mg"
+					}
+				]
+			}
+		]
+	},
+	{
+		"category": "legumes",
+		"products": [
+			{
+				"name": "Brócolis ao Vapor",
+				"image":"images/menu/brocolis.jpg",
+				"desc":"Para o almoço ou jantar, o legume completa bem um prato balanceado e saudável.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"BRÓCOLIS COZIDO",
+					"SAL ROSA DO HIMALAIA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"30 kcal - 127 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"4,4g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"2,1g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"3,1g"
+					},
+					{
+						"name":"Sódio",
+						"val":"176mg"
+					}
+				]
+			},
+			{
+				"name": "Mix de Legumes",
+				"image":"images/menu/mix-legumes.jpg",
+				"desc":"Para quem quer ainda mais praticidade, os legumes que você precisa em sua dieta, em um único kit.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"VAGEM",
+					"BRÓCOLIS",
+					"ABOBRINHA ITALIANA",
+					"CENOURA",
+					"SAL ROSA DO HIMALAIA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"26 kcal - 111 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"4,5g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"1,6g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"3,0g"
+					},
+					{
+						"name":"Sódio",
+						"val":"5,2mg"
+					}
+				]
+			},
+			{
+				"name": "Abobrinha Italiana ao Vapor",
+				"image":"images/menu/abobrinha-italiana.jpg",
+				"desc":"Complete sua refeição com o toque da nossa abobrinha italiana ao vapor.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"ABOBRINHA ITALIANA",
+					"SAL ROSA DO HIMALAIA",
+					"AZEITE DE OLIVA EXTRA VIRGEM"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"27 kcal - 112 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"4,3g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"1,1g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"0,59g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"1,4g"
+					},
+					{
+						"name":"Sódio",
+						"val":"1,9mg"
+					}
+				]
+			},
+			{
+				"name": "Vagem ao Vapor",
+				"image":"images/menu/vagem-vapor.jpg",
+				"desc":"Ela rejuvenesce, previne contra diabetes e ainda adicionar sabor ao prato.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"VAGEM",
+					"SAL ROSA DO HIMALAIA",
+					"AZEITE DE OLIVA EXTRA VIRGEM"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"34 kcal - 144 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"5,2g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"1,8g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"0,69g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"2,5g"
+					},
+					{
+						"name":"Sódio",
+						"val":"36mg"
+					}
+				]
+			},
+			{
+				"name": "Cenoura ao Vapor",
+				"image":"images/menu/cenoura-vapor.jpg",
+				"desc":"Com poucas calorias, nossa cenoura ao vapor enriquece sua refeição. Uma ótima combinação é a carne moída que você também encontra no cardápio.",
+				"quant":"100g",
+				"price":{
+					"client":3.90,
+					"off":3.90
+				},
+				"ingredients": [
+					"CENOURA COZIDA",
+					"SAL ROSA DO HIMALAIA",
+					"AZEITE DE OLIVA EXTRA VIRGEM"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"36 kcal - 150 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"6,6g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"0,79g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"0,69g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"3,0g"
+					},
+					{
+						"name":"Sódio",
+						"val":"181mg"
+					}
+				]
+			}
+		]
+	},
+	{
+		"category": "massas",
+		"products": [
+			{
+				"name": "Macarrão Integral à Bolonhesa",
+				"image":"images/menu/macarrao-bolonhesa.jpg",
+				"desc":"Culinária italiana em versão mais saudável e leve para quem quer manter a forma.",
+				"quant":"200g",
+				"price":{
+					"client":9.90,
+					"off":9.90
+				},
+				"ingredients": [
+					"MACARRÃO INTEGRAL",
+					"TOMATE",
+					"CARNE BOVINA PATINHO",
+					"EXTRATO DE TOMATE",
+					"SAL ROSA DO HIMALAIA",
+					"CEBOLA",
+					"ALHO",
+					"TOMILHO",
+					"LOURO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"261 kcal - 1092 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"48g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"11g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"2,4g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"0,56g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"4,9g"
+					},
+					{
+						"name":"Sódio",
+						"val":"52mg"
+					}
+				]
+			},
+			{
+				"name": "Macarrão Integral ao Alho e Azeite",
+				"image":"images/menu/macarrao-alho.jpg",
+				"desc":"Carboidratos, proteínas e poucas calorias de um jeito realmente saboroso.",
+				"quant":"200g",
+				"price":{
+					"client":9.90,
+					"off":9.90
+				},
+				"ingredients": [
+					"MACARRÃO INTEGRAL",
+					"AZEITE DE OLIVA EXTRA VIRGEM",
+					"ALHO",
+					"SAL ROSA DO HIMALAIA",
+					"SALSA SECA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"212 kcal - 885 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"39g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"6,6g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"3,4g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"0,50g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"3,6g"
+					},
+					{
+						"name":"Sódio",
+						"val":"8,6mg"
+					}
+				]
+			},
+			{
+				"name": "Macarrão Integral ao Molho Limone",
+				"image":"images/menu/macarrao-limone.jpg",
+				"desc":"Um toque siciliano em sua dieta balanceada. Combinação perfeita para almoço ou jantar.",
+				"quant":"200g",
+				"price":{
+					"client":9.90,
+					"off":9.90
+				},
+				"ingredients": [
+					"MACARRÃO INTEGRAL",
+					"LEITE DESNATADO UHT",
+					"BIOMASSA DE BANANA VERDE",
+					"LIMÃO SICILIANO",
+					"LIMÃO TAHITI",
+					"CEBOLA",
+					"SAL ROSA DO HIMALAIA",
+					"ALHO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"236 kcal - 987 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"49g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"8,1g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"0,96g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"Zero"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"5,5g"
+					},
+					{
+						"name":"Sódio",
+						"val":"13mg"
+					}
+				]
+			}
+		]
+	},
+	{
+		"category": "sobremesas",
+		"products": [
+			{
+				"name": "Brownie Meio Amargo",
+				"image":"images/menu/brownie-amargo.jpg",
+				"desc":"Sem açúcar, para quem não dispensa um bom doce. Mas nunca se esquece da saúde em dia.",
+				"quant":"150g",
+				"price":{
+					"client":11.90,
+					"off":11.90
+				},
+				"ingredients": [
+					"BIOMASSA DE BANANA VERDE",
+					"CHOCOLATE MEIO AMARGO",
+					"GUARANA EM PÓ",
+					"CACAU EM PÓ",
+					"OVO",
+					"ÓLEO DE GIRASSOL",
+					"CASTANHA-DO-PARÁ",
+					"LINHAÇA",
+					"ADOÇANTE CULINARIO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"198 kcal - 828 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"19g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"4,2g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"12g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"3,0g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"3,2g"
+					},
+					{
+						"name":"Sódio",
+						"val":"9,7mg"
+					}
+				]
+			},
+			{
+				"name": "Wrap de Brigadeiro Light",
+				"image":"images/menu/wrap-brigadeiro.jpg",
+				"desc":"Quem ama chocolate mas mantém a boa forma física e a saúde em dia, uma excelente opção.",
+				"quant":"150g",
+				"price":{
+					"client":12.90,
+					"off":12.90
+				},
+				"ingredients": [
+					"LEITE DESN.",
+					"CHOCOLATE MEIO AMARGO",
+					"BIOMASSA DE BANANA VERDE",
+					"OVO",
+					"MANTEIGA GHEE",
+					"FARINHA DE TRIGO INTEGRAL",
+					"CACAU EM PÓ",
+					"ESSÊNCIA DE BAUNILHA",
+					"ADOÇANTE",
+					"AÇUCAR DEMERARA",
+					"SAL ROSA DO HIMALAIA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"87 kcal - 366 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"8,6g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"1,8g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"5,1g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"2,5g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"1,3g"
+					},
+					{
+						"name":"Sódio",
+						"val":"24mg"
+					}
+				]
+			},
+			{
+				"name": "Wrap de Maçã Verde com Canela",
+				"image":"images/menu/wrap-maca.jpg",
+				"desc":"Fruta é sempre uma boa pedida, ainda mais em um delicioso e leve wrap.",
+				"quant":"150g",
+				"price":{
+					"client":11.90,
+					"off":11.90
+				},
+				"ingredients": [
+					"MAÇÃ VERDE",
+					"LEITE DESNATADO",
+					"OVO",
+					"FÉCULA DE MANDIOCA",
+					"LIMÃO TAHITI",
+					"FARINHA DE TRIGO INTEGRAL",
+					"LEITE DESNATADO EM PÓ",
+					"ADOÇANTE CULINÁRIO",
+					"SAL ROSA DO HIMALAIA",
+					"CANELA MOÍDA",
+					"NOZ MOSCADA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"196 kcal - 818 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"37g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"5,6g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"2,6g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"0,64g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"3,2g"
+					},
+					{
+						"name":"Sódio",
+						"val":"70mg"
+					}
+				]
+			},
+			{
+				"name": "Wrap de Banana com Chocolate",
+				"image":"images/menu/wrap-banana.jpg",
+				"desc":"Para a sobremesa ficar mais leve, um wrap com zero de gordura trans e muito sabor.",
+				"quant":"150g",
+				"price":{
+					"client":11.90,
+					"off":11.90
+				},
+				"ingredients": [
+					"BANANA",
+					"LEITE DESNATADO UHT",
+					"OVO",
+					"CACAU EM PÓ",
+					"CHOCOLATE MEIO AMARGO",
+					"FARINHA DE TRIGO INTEGRAL",
+					"LEITE DESNATADO EM PÓ",
+					"FÉCULA DE MANDIOCA",
+					"ADOÇANTE CULINÁRIO",
+					"SAL ROSA DO HIMALAIA",
+					"NOZ MOSCADA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"241 kcal - 1007 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"39g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"8,6g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"5,8g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,9g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"4,6g"
+					},
+					{
+						"name":"Sódio",
+						"val":"74mg"
+					}
+				]
+			}
+		]
+	},
+	{
+		"category": "snacks",
+		"products": [
+			{
+				"name": "Wrap Integral de Peito de Peru com Ricota",
+				"image":"images/menu/wrap-peitoperu.jpg",
+				"desc":"Leve, saudável e para comer rapidamente. No lanche ou no almoço, uma ótima sugestão.",
+				"quant":"150g",
+				"price":{
+					"client":10.90,
+					"off":10.90
+				},
+				"ingredients": [
+					"TOMATE",
+					"PEITO DE PERU",
+					"QUEIJO RICOTA",
+					"AZEITE EXTRA VIRGEM",
+					"TOMILHO",
+					"OVO",
+					"LEITE UHT",
+					"FARINHA DE TRIGO INTEGRAL",
+					"LEITE DESNATADO EM PÓ",
+					"SAL ROSA DO HIMALAIA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"157 kcal - 657 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"9,5g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"15g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"6,7g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"3,8g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"1,4g"
+					},
+					{
+						"name":"Sódio",
+						"val":"405mg"
+					}
+				]
+			},
+			{
+				"name": "Wrap Integral Salmão com Ricota",
+				"image":"images/menu/wrap-salmao.jpg",
+				"desc":"O saboroso peixe preparado em um wrap leve e completo para o seu lanche, almoço ou jantar.",
+				"quant":"150g",
+				"price":{
+					"client":10.90,
+					"off":10.90
+				},
+				"ingredients": [
+					"SALMÃO",
+					"QUEIJO RICOTA",
+					"BIOMASSA DE BANANA VERDE",
+					"FARELO DE AVEIA",
+					"LIMAO",
+					"AZEITE EXTRA VIRGEM",
+					"OVO",
+					"LEITE UHT",
+					"FARINHA DE TRIGO INTEGRAL",
+					"LEITE DESNATADO EM PÓ",
+					"SAL ROSA DO HIMALAIA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"226 kcal - 947 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"13g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"19g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"11g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"3,3g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"2,9g"
+					},
+					{
+						"name":"Sódio",
+						"val":"202mg"
+					}
+				]
+			},
+			{
+				"name": "WRAP INTEGRAL DE FRANGO COM ESPINAFRE E QUEIJO RICOTA",
+				"image":"images/menu/wrap-frango-espinafre.jpg",
+				"desc":"Para um lanche mais saudável, nosso delicioso wrap de frango com espinafre e ricota é um bom companheiro. Confira também outros sabores de wrap.",
+				"quant":"150g",
+				"price":{
+					"client":10.90,
+					"off":10.90
+				},
+				"ingredients": [
+					"ESPINAFRE REFOGADO",
+					"PEITO DE FRANGO COZIDO",
+					"QUEIJO RICOTA",
+					"OVO",
+					"LEITE UHT",
+					"FATINHA DE TRIGO INTEGRAL",
+					"LEITE DESNATADO E PÓ",
+					"SAL ROSA DO HIMALAIA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"223 kcal - 934 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"13g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"25g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"8,0g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"2,7g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"2,2g"
+					},
+					{
+						"name":"Sódio",
+						"val":"186mg"
+					}
+				]
+			},
+			{
+				"name": "Wrap Integral de Frango com Vegetais e Ricota",
+				"image":"images/menu/wrap-frangolegumes.jpg",
+				"desc":"Um lanche completo com legumes selecionados e frango bem temperado.",
+				"quant":"150g",
+				"price":{
+					"client":10.90,
+					"off":10.90
+				},
+				"ingredients": [
+					"PEITO DE FRANGO COZIDO",
+					"QUEIJO RICOTA",
+					"CENOURA",
+					"MILHO",
+					"ALHO",
+					"CEBOLA",
+					"AZEITE EXTRA VIRGEM",
+					"OVO",
+					"LEITE UHT",
+					"FARINHA DE TRIGO INTEGRAL",
+					"LEITE DESNATADO EM PÓ",
+					"SAL ROSA DO HIMALAIA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"217 kcal - 909 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"14g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"21g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"8,6g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"3,2g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"1,6g"
+					},
+					{
+						"name":"Sódio",
+						"val":"202mg"
+					}
+				]
+			}
+		]
+	},
+	{
+		"category": "sopas",
+		"products": [
+			{
+				"name": " Canja de Galinha",
+				"image":"images/menu/canja-galinha.jpg",
+				"desc":"Uma opção saudável e nutritiva, a canja de galinha ainda ajuda no controle da pressão.",
+				"quant":"400g",
+				"price":{
+					"client":12.90,
+					"off":12.90
+				},
+				"ingredients": [
+					"FRANGO",
+					"ARROZ INTEGRAL",
+					"CENOURA",
+					"ABOBRINHA ITALIANA",
+					"BATATA INGLESA",
+					"CEBOLA",
+					"AZEITE EXTRA VIRGEM",
+					"SAL ROSA DO HIMALAIA",
+					"ALHO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"245 kcal - 1025 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"28g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"17g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"7,4g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,3g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"3,4g"
+					},
+					{
+						"name":"Sódio",
+						"val":"49mg"
+					}
+				]
+			},
+			{
+				"name": "Cassoulet de Frango",
+				"image":"images/menu/cassoulet.jpg",
+				"desc":"Para quem nunca provou, uma delícia da culinária francesa que ganhou o toque saudável da Personal Foods.",
+				"quant":"400g",
+				"price":{
+					"client":12.90,
+					"off":12.90
+				},
+				"ingredients": [
+					"FRANGO",
+					"FEIJÃO BRANCO",
+					"CENOURA",
+					"COUVE MANTEIGA",
+					"CEBOLA",
+					"AZEITE EXTRA VIRGEM",
+					"ALHO",
+					"LIMÃO TAHITI",
+					"SAL ROSA DO HIMALAIA",
+					"ERVA-DOCE",
+					"PIMENTA BRANCA",
+					"LOURO"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"337 kcal - 1412 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"34g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"36g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"6,6g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"1,6g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"6,3"
+					},
+					{
+						"name":"Sódio",
+						"val":"78mg"
+					}
+				]
+			},
+			{
+				"name": "Sopa de Batata Doce e Frango",
+				"image":"images/menu/creme-batatadoce.jpg",
+				"desc":"Leve, mas nutritiva. Deixa nossa deliciosa sopa entrar em sua dieta.",
+				"quant":"400g",
+				"price":{
+					"client":12.90,
+					"off":12.90
+				},
+				"ingredients": [
+					"BATATA DOCE",
+					"FRANGO",
+					"CEBOLA",
+					"AZEITE EXTRA VIRGEM",
+					"SAL ROSA DO HIMALAIA",
+					"ALHO",
+					"SALSA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"350 kcal - 1466 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"73g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"7,2g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"3,4g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"0,71g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"6,7g"
+					},
+					{
+						"name":"Sódio",
+						"val":"48mg"
+					}
+				]
+			},
+			{
+				"name": "Sopa de Legumes",
+				"image":"images/menu/sopa-legumes.jpg",
+				"desc":"Para manter a forma na correria do dia-a- dia, nada como os legumes que você precisa todos juntos.",
+				"quant":"400g",
+				"price":{
+					"client":12.90,
+					"off":12.90
+				},
+				"ingredients": [
+					"ABOBRINHA ITALIANA",
+					"CENOURA",
+					"ABÓBORA CABOTIAN",
+					"AIPO",
+					"CEBOLA",
+					"AZEITE EXTRA VIRGEM",
+					"SAL ROSA DO HIMALAIA",
+					"ALHO-PORRÓ",
+					"SALSA",
+					"ALHO",
+					"PIMENTA BRANCA"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"113 kcal - 472 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"13g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"2,6g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"5,6g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"0,77g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"4,2g"
+					},
+					{
+						"name":"Sódio",
+						"val":"33mg"
+					}
+				]
+			},
+			{
+				"name": "Sopa Detox",
+				"image":"images/menu/sopa-detox.jpg",
+				"desc":"Cuidar do organismo pode ser realmente saboroso se você adicionar os temperos certos.",
+				"quant":"400g",
+				"price":{
+					"client":12.90,
+					"off":12.90
+				},
+				"ingredients": [
+					"ABOBRINHA ITALIANA",
+					"COUVE MANTEIGA",
+					"CENOURA",
+					"INHAME",
+					"TOMATE",
+					"AIPO",
+					"AZEITE EXTRA VIRGEM",
+					"CEBOLA",
+					"SAL ROSA DO HIMALAIA",
+					"SALSA",
+					"GENGIBRE"
+				],
+				"nutri":[
+					{
+						"name":"Valor energético",
+						"val":"138 kcal - 576 kJ"
+					},
+					{
+						"name":"Carboidratos",
+						"val":"16g"
+					},
+					{
+						"name":"Proteínas",
+						"val":"3,4g"
+					},
+					{
+						"name":"Gorduras totais",
+						"val":"6,8g"
+					},
+					{
+						"name":"Gorduras saturadas",
+						"val":"0,92g"
+					},
+					{
+						"name":"Gorduras trans",
+						"val":"Zero"
+					},
+					{
+						"name":"Fibra alimentar",
+						"val":"4,2g"
+					},
+					{
+						"name":"Sódio",
+						"val":"34mg"
+					}
+				]
+			}
+		]
+	}
+]

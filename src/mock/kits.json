@@ -1,0 +1,64 @@
+[
+  {
+    "title":"File Frango + Arroz int. + Cenoura",
+    "description":"Combinação perfeita entre proteína, vitaminas e minerais, a porção de 300g composta por um delicioso franguinho grelhado, arroz integral e cenoura é ideal para o auxilio de controle de peso. Além de apresentar baixíssimo teor de gordura, esta combinação é rica em carotenoides que auxiliam na prevenção de doenças cardio vasculares. Que tal acrescentar saúde, praticidade e equilibro ao seu dia-a-dia por apenas",
+    "price":"15,90",
+    "image":"images/menu/15.jpg",
+    "product_pack":[
+      "File Frango",
+      "Arroz int.",
+      "Cenoura"
+    ]
+  },
+  {
+    "title":"Macarrão ao molho Limone + Salmão Grelhado",
+    "description":"O delicioso macarrão ao molho Limone é uma receita especial criada pelo nosso chef, a base de limão siciliano, rico em fibras e zero gorduras trans. Como se não bastasse, acompanha salmão grelhado rico em Omega 3, o qual possui poderoso poder anti-inflamatório e auxilia na regulação da função celular.Esse voce não pode deixar de experimentar! A porção de 300g é ideal para saciar a vontade de uma refeição.",
+    "price":"20,90",
+    "image":"images/menu/25.jpg",
+    "product_pack":[
+      "Macarrão ao molho Limone",
+      "Salmão Grelhado"
+    ]
+  },
+  {
+    "title":"Patinho moído + Purê Mandioq. + Brócolis",
+    "description":"Esta combinação é perfeita para quem está em busca de ganho muscular, pois é rico em proteína, fibras e ferro. O brócolis alem de saboroso auxilia na regulação hormonal e na recuperação das fibras musculares, ótima opção para o jantar, pois alem de tudo possui baixo teor Calórico! A porção de 300g sai por apenas",
+    "price":"16,90",
+    "image":"images/menu/vagem-vapor.jpg",
+    "product_pack":[
+      "Patinho moído",
+      "Purê Mandioq.",
+      "Brócolis"
+    ]
+  },
+  {
+    "title":"St. Peter + Purê Batata Doce + Abobrinha Italiana",
+    "description":"Alem do baixo índice glicêmico, esse prato também apresenta baixo teor de sódio e,gordura, uma combinação mais que saudável. Adequado para refeições a qualquer hora do dia, este prato fornece altos teores de vitaminas A, B e C, que auxiliam no controle dos níveis de colesterol.",
+    "price":"18,90",
+    "image":"images/menu/st-peter.jpg",
+    "product_pack":[
+      "St. Peter",
+      "Purê Batata Doce",
+      "Abobrinha Italiana"
+    ]
+  },
+  {
+    "title":"Strogonof de Frango + Arroz Integral",
+    "description":"Um dos queridinhos da culinária brasileira foi desenvolvido especialmente para comer sem culpa! Nosso delicioso strogonoff de frango, acompanhado de uma porção de arroz integral, é feito com biomassa de banana verde, rico em fibras e zero gorduras trans.",
+    "price":"14,90",
+    "image":"images/menu/strogonoff.jpg",
+    "product_pack":[
+      "Strogonof de Frango",
+      "Arroz Integral"
+    ]
+  },
+  {
+    "title":"Linha de Wraps",
+    "description":"A combinação perfeita de praticidade e sabor, o wrap alem de funcional é também muito nutritivo. Nossa exclusiva massa alem de super leve é tambem feita com biomassa de banana verde, possuí calorias reduzidas e baixo teor de gordura, pode ser consumido a qualquer hora do dia!",
+    "price":"8,90",
+    "image":"images/menu/wrap-frangolegumes.jpg",
+    "product_pack":[
+      "wrap"
+    ]
+  }
+]

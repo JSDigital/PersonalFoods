@@ -1,0 +1,55 @@
+{
+  "name": "Macarrão Integral à Bolonhesa",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Culinária italiana em versão mais saudável e leve para quem quer manter a forma.",
+  "quant":"200g",
+  "preco":{
+    "client":9.90,
+    "off":9.90
+  },
+  "ingredients": [
+    "MACARRÃO INTEGRAL",
+    "TOMATE",
+    "CARNE BOVINA PATINHO",
+    "EXTRATO DE TOMATE",
+    "SAL ROSA DO HIMALAIA",
+    "CEBOLA",
+    "ALHO",
+    "TOMILHO",
+    "LOURO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"261 kcal - 1092 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"48g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"11g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"2,4g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"0,56g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"4,9g"
+    },
+    {
+      "name":"Sódio",
+      "val":"52mg"
+    }
+  ]
+}

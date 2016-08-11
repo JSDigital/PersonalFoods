@@ -1,0 +1,447 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+.menu-food {
+  .header {
+    width: 100%;
+    height: 540px;
+    position: relative;
+    background: url(assets/images/menufood/header.jpg) no-repeat center center;
+    background-size: cover;
+    @include flex-center;
+  }
+
+  .content {
+    transition: all .6s $expo-out;
+    width: $max-width;
+    margin: 0 auto;
+
+    .little-primary {
+      transition: all .6s $expo-out;
+      margin-top: 100px;
+    }
+
+    .menu-category {
+      transition: all .6s $expo-out;
+      margin-top: 70px;
+      width: auto;
+      border: 2px solid #a0c86d;
+      border-radius: 100px;
+      position: relative;
+      display: inline-block;
+      left: 50%;
+      transform: translate(-50%, 0%);
+
+      .item {
+        position: relative;
+        display: inline-block;
+        width: 177px;
+        height: 65px;
+        text-align: center;
+        line-height: 65px;
+        border-radius: 100px;
+        font-size: 12px;
+        font-family: $font-primary-bold;
+        letter-spacing: 1px;
+        font-weight: bold;
+        margin: 0 -14px;
+        background: #fff;
+        color: $secundary-color;
+        cursor: pointer;
+        text-transform: uppercase;
+
+        &.active {
+          background: $primary-color;
+          color: #fff;
+          z-index: 9;
+        }
+
+        &:first-child {
+          margin-left: 0;
+        }
+
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+
+      @media (max-width:$mob-width){
+        border:none;
+        text-align:center;
+      }
+    }
+
+    .product-wrapper {
+      transition: all .6s $expo-out;
+      position: relative;
+
+      .menu-content {
+        transition: all .6s $expo-out;
+        margin: 124px 0 0 0;
+        height: 568px;
+        width: 590px;
+        display: inline-block;
+
+        .list {
+          width: 100%;
+          overflow: hidden;
+          height: 490px;
+          border-top: 1px solid #e2e2e2;
+          border-bottom: 1px solid #e2e2e2;
+
+          .itens {
+            height: auto;
+            width: 100%;
+            padding-top: 1px;
+            margin-top: -1px;
+            transition: all .8s $expo-out;
+
+            .item {
+              width: 100%;
+              height: 163px;
+              border-bottom: 1px solid #e2e2e2;
+              padding-top: 1px;
+              transition: all .6s $expo-out;
+              background: #fff url("assets/images/menufood/active-arrow.png") no-repeat center right -42px;
+              cursor: pointer;
+
+              &.active {
+                background: #f7f7f7 url("assets/images/menufood/active-arrow.png") no-repeat center right 42px;
+              }
+
+              .sub {
+                font-size: 12px;
+                color: $secundary-color;
+                font-family: $font-primary-regular;
+                margin: 23px 0 0 32px;
+              }
+
+              .title {
+                font-size: 25px;
+                font-family: $font-primary-bold;
+                font-weight: bold;
+                color: $primary-color;
+                margin: 26px 0 0 32px;
+                text-transform: uppercase;
+              }
+            }
+          }
+        }
+
+        .controlls {
+          transition: all .6s $expo-out;
+          margin: 30px 0 0 26px;
+          display: block;
+
+          .down-arrow {
+            width: 27px;
+            height: 34px;
+            background: url(assets/images/menufood/arrowdown.png) no-repeat center center;
+            display: inline-block;
+            margin: 0 0 0 18px;
+            cursor: pointer;
+          }
+
+          .up-arrow {
+            width: 27px;
+            height: 34px;
+            background: url(assets/images/menufood/arrowup.png) no-repeat center center;
+            display: inline-block;
+            cursor: pointer;
+          }
+        }
+
+        @media (max-width:$mob-width){
+          width:100%;
+        }
+      }
+
+      .product-content {
+        transition: all .6s $expo-out;
+        width: 539px;
+        height: 568px;
+        margin: 124px 0 0 50px;
+        vertical-align: top;
+        position: absolute;
+        right: 0;
+        top: 0;
+        overflow: hidden;
+
+        .wrapper {
+          width: $max-width;
+          margin: -326px auto 0 auto;
+
+          .first-content {
+            height: 580px;
+          }
+
+          .image {
+            height: 570px;
+            position: relative;
+            margin-right: 615px;
+          }
+
+          @media (max-width:$mob-width){
+            width:90%;
+          }
+        }
+
+        > .desc {
+          height: auto;
+          background: #f2f2f2;
+          opacity:0;
+          width: 100%;
+          padding: 1px;
+
+          .wrapper {
+            margin-top: 350px !important;
+
+            .col {
+              width: $max-width / 3;
+              display:inline-block;
+              vertical-align:top;
+
+              &.col-1{
+                font-size:35px;
+                font-weight: bold;
+                font-family: $font-primary-bold;
+                color:$primary-color;
+
+                @media (max-width:$mob-width){
+                  width:100%;
+                  margin-bottom:40px;
+                }
+              }
+
+              &.col-2{
+                .ingredients{
+                  padding-left:35px;
+                  border-left:1px solid $secundary-color;
+
+                  > li{
+                    color:$secundary-color;
+                    font-size:14px;
+                    font-family:$font-primary-regular;
+                    margin-bottom:35px;
+                  }
+                }
+
+                @media (max-width:$mob-width){
+                  width:50%;
+                }
+              }
+
+              &.col-3{
+                border-left:1px solid $secundary-color;
+                color:$secundary-color;
+                font-family: $font-primary-regular;
+                font-size:14px;
+                padding:0 20px 20px;
+                @media (max-width:$mob-width){
+                  width:50%;
+                }
+              }
+            }
+          }
+        }
+
+        .nutri{
+          padding:1px;
+
+          >.wrapper{
+            margin:0 auto !important;
+
+            .title-nutri{
+              font-size: 35px;
+              font-family: $font-primary-bold;
+              font-weight: bold;
+              color:$primary-color;
+              text-align:center;
+              width: 100%;
+              margin-top:140px;
+            }
+
+            .nutri-table{
+              list-style: none;
+              width: 544px;
+              border:2px solid #f4f4f4;
+              margin: 95px auto 0 auto;
+              font-size:13px;
+              font-family: $font-primary-bold;
+              font-weight: bold;
+              text-align:center;
+              color:$secundary-color;
+              line-height:58px;
+
+              >li{
+                border-bottom:2px solid #f4f4f4;
+
+                &:last-child{
+                  border:none;
+                }
+
+                &.title{
+                  color:$primary-color;
+                }
+              }
+
+              .desc{
+                width: 344px;
+                display:inline-block;
+                border-right:2px solid #f4f4f4;
+
+                @media (max-width:$mob-width){
+                  width:70%;
+                }
+              }
+
+              .value{
+                width: 194px;
+                display:inline-block;
+
+                @media (max-width:$mob-width){
+                  width:30%;
+                }
+              }
+
+              @media (max-width:$mob-width){
+                width:90%;
+              }
+            }
+          }
+        }
+
+        @media (max-width:$mob-width){
+          width:0;
+          height:0;
+        }
+      }
+    }
+
+    &.active {
+      width: 100%;
+      height: 2664px;
+
+      > .little-primary {
+        margin-top: 0;
+        height: 0;
+        overflow: hidden;
+      }
+
+      > .medium-gray {
+        overflow: hidden;
+        height: 0;
+        margin: 0;
+        padding: 0;
+        line-height: 0;
+      }
+
+      .menu-category {
+        height: 0;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        opacity: 0;
+      }
+
+      .product-wrapper {
+        .menu-content {
+          opacity: 0;
+        }
+
+        .product-content {
+          width: 100%;
+          margin: 0;
+          height: auto;
+
+          > .desc{
+            opacity:1;
+          }
+
+          .wrapper {
+            margin: -30px auto 0 auto;
+            position:relative;
+
+            .close{
+              width: 30px;
+              height: 30px;
+              background:url(assets/images/menufood/close.jpg) no-repeat center center;
+              position:absolute;
+              top:0;
+              right:0;
+              cursor:pointer;
+            }
+
+            .image {
+              margin-top: 80px;
+              margin-right: 0px;
+            }
+          }
+        }
+      }
+    }
+
+    @media (max-width:$mob-width){
+      width:100%;
+    }
+  }
+
+  .big-uncolor {
+    font-family: $font-primary-bold;
+    font-weight: bold;
+    color: #fff;
+    width: 788px;
+    margin: 10px auto 0 auto;
+    font-size: 50px;
+    text-align: center;
+    line-height: 50px;
+
+    @media (max-width:$mob-width){
+      width:90%;
+    }
+  }
+
+  .little-primary {
+    width: 100%;
+    text-align: center;
+    font-family: $font-primary-regular;
+    color: $primary-color;
+    font-size: 12px;
+
+    @media (max-width:$mob-width){
+      font-size:22px;
+    }
+  }
+
+  .little-uncolor {
+    width: 430px;
+    text-align: center;
+    font-family: $font-primary-regular;
+    color: #fff;
+    font-size: 12px;
+    margin: 50px auto 0 auto;
+
+    @media (max-width:$mob-width){
+      width:70%;
+      font-size:22px;
+    }
+  }
+
+  .medium-gray {
+    font-family: $font-primary-bold;
+    color: $secundary-color;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+    margin: 30px auto;
+    width: 640px;
+    text-transform: uppercase;
+    height: 148px;
+
+    @media (max-width:$mob-width){
+      width:70%;
+    }
+  }
+}
+

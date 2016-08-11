@@ -1,0 +1,51 @@
+{
+  "name": "Mix de Legumes",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Para quem quer ainda mais praticidade, os legumes que você precisa em sua dieta, em um único kit.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "VAGEM",
+    "BRÓCOLIS",
+    "ABOBRINHA ITALIANA",
+    "CENOURA",
+    "SAL ROSA DO HIMALAIA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"26 kcal - 111 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"4,5g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"1,6g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"3,0g"
+    },
+    {
+      "name":"Sódio",
+      "val":"5,2mg"
+    }
+  ]
+}

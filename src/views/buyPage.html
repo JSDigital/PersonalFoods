@@ -1,0 +1,56 @@
+<section class="buy">
+    <div class="finish">
+        <div class="wrapper">
+            <div class="left">
+                <label for="name">Name</label>
+                <input ng-model="buy.name" type="text" class="name" id="name"><br>
+                <label for="email">E-mail</label>
+                <input ng-model="buy.email" type="text" class="email" id="email"><br>
+                <label for="phone">Telefone</label>
+                <input ng-model="buy.phone" type="tel" class="phone" id="phone"><br>
+                <label for="adress">Endereço</label>
+                <input ng-model="buy.adress" type="text" class="adress" id="adress">
+            </div>
+            <div class="right">
+                <ul class="buy-list">
+                    <li class="buy-item" ng-class="{odd : index % 2}" ng-repeat="(index, obj) in productsToBuy">
+                        <div class="name">{{obj.name}}</div>
+                        <div class="quant">{{obj.quantbuy | setDecimal:2}}</div>
+                        <div class="value">R$ {{obj.price.client * obj.quantbuy | setDecimal:2}}</div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="wrap-finish">
+            <div class="total">R$ {{totalVal | setDecimal:2}}</div>
+            <div class="button" ng-click="finishSell()">EFETUAR PEDIDO</div>
+            <div class="loading">.</div>
+        </div>
+    </div>
+    <div class="content-all" ng-click="closeFinish()">
+        <div class="header">
+            <div>
+                <div class="little-primary">
+                    Cardápio
+                </div>
+                <div class="big-uncolor">Faça seu pedido</div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="menu-item"  ng-repeat="(index, obj) in menuContent">
+                <div class="button-select" ng-click="toggleMenu($event)" ng-class="{odd : index % 2}">{{obj.category}}</div>
+                <ul class="menu-itens">
+                    <li class="item" ng-repeat="(i, item) in obj.products">
+                        <div class="image" ng-style="{'background':'url('+item.image+') no-repeat center center', 'backgroundSize':'cover'}"></div>
+                        <div class="wrapper">
+                            <div class="title">{{item.name}}</div>
+                            <div class="desc">{{item.desc}}</div>
+                            <div class="price">R$ {{item.price.client}}</div>
+                            <input ng-change="putValue(item, quant)" ng-model="quant" class="quant" min="0" type="number" value="0">
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

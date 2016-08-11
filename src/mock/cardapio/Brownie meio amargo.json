@@ -1,0 +1,55 @@
+{
+  "name": "Brownie Meio Amargo",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Sem açúcar, para quem não dispensa um bom doce. Mas nunca se esquece da saúde em dia.",
+  "quant":"150g",
+  "preco":{
+    "client":11.90,
+    "off":11.90
+  },
+  "ingredients": [
+    "BIOMASSA DE BANANA VERDE",
+    "CHOCOLATE MEIO AMARGO",
+    "GUARANA EM PÓ",
+    "CACAU EM PÓ",
+    "OVO",
+    "ÓLEO DE GIRASSOL",
+    "CASTANHA-DO-PARÁ",
+    "LINHAÇA",
+    "ADOÇANTE CULINARIO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"198 kcal - 828 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"19g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"4,2g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"12g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"3,0g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"3,2g"
+    },
+    {
+      "name":"Sódio",
+      "val":"9,7mg"
+    }
+  ]
+}

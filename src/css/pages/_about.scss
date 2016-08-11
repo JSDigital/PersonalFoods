@@ -1,0 +1,135 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+.about{
+  .header{
+    width:100%;
+    position:relative;
+    background:url(assets/images/about/header.jpg) no-repeat center center;
+    background-size:cover;
+    @include flex-center;
+  }
+
+  .history{
+    height:927px;
+    @include flex-center;
+    background:url(assets/images/about/bg-history.jpg) no-repeat center bottom 175px;
+  }
+
+  .mission{
+    height: 800px;
+    background:$primary-color;
+    @include flex-center;
+  }
+
+  .impact-text{
+    @include flex-center;
+    height: 414px;
+
+    .quot{
+      width: 16px;
+      height: 15px;
+      background:url(assets/images/about/quot.jpg) no-repeat center center;
+      margin: 0 auto;
+
+      &.inverse{
+        transform:rotate(180deg);
+      }
+    }
+  }
+
+  .medium-secundary{
+    width: 720px;
+    margin:50px auto;
+    color:$secundary-color;
+    font-size:25px;
+    font-family:$font-primary-bold;
+    font-weight: bold;
+    text-align:center;
+
+    @media (max-width:$mob-width){
+      width:90%;
+      font-size:35px;
+    }
+  }
+
+
+  .little-primary{
+    width:100%;
+    text-align:center;
+    font-family:$font-primary-regular;
+    color:$primary-color;
+    font-size:12px;
+
+    @media (max-width:$mob-width){
+      font-size:22px;
+    }
+  }
+  .big-uncolor{
+    font-family:$font-primary-bold;
+    font-weight:bold;
+    color:#fff;
+    width:788px;
+    margin:10px auto 0 auto;
+    font-size:50px;
+    text-align: center;
+    line-height:50px;
+
+    @media (max-width:$mob-width){
+      width:90%;
+    }
+  }
+
+  .big-secundary{
+    font-family:$font-primary-bold;
+    font-weight:bold;
+    color:$secundary-color;
+    width:394px;
+    margin:10px auto 0 auto;
+    font-size:50px;
+    text-align: center;
+    line-height:50px;
+
+    @media (max-width:$mob-width){
+      width:90%;
+    }
+  }
+
+  .little-uncolor{
+    width:394px;
+    text-align:center;
+    font-family:$font-primary-regular;
+    color:#fff;
+    font-size:12px;
+    margin:50px auto 0 auto;
+
+    &.desc{
+      width:610px;
+
+      @media (max-width:$mob-width){
+        width:80%;
+      }
+    }
+
+    @media (max-width:$mob-width){
+      width:70%;
+      font-size:22px;
+    }
+  }
+
+  .little-black{
+    width: 610px;
+    text-align:center;
+    margin:245px auto;
+    font-family:$font-primary-regular;
+    color:#000;
+    font-size:12px;
+
+    @media (max-width:$mob-width){
+      width:70%;
+      font-size:22px;
+      margin-top:50px;
+    }
+  }
+}
+

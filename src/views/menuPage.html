@@ -1,0 +1,84 @@
+<section class="menu-food">
+    <div class="header">
+        <div>
+            <div class="little-primary">
+                Cardápio
+            </div>
+            <div class="big-uncolor">Sabor, praticidade e saúde.</div>
+            <div class="little-uncolor">
+                Livres de gorduras trans e preparados com ingredientes funcionais, nossos alimentos vem prontos para você consumir.
+            </div>
+        </div>
+    </div>
+    <div class="content product">
+        <div class="little-primary">
+            O cardápio
+        </div>
+        <div class="medium-gray">
+            Nossas opções para a uma alimentação saudável.
+        </div>
+        <ul class="menu-category">
+            <li ng-repeat="(index, obj) in menuFood" class="item" ng-class="{active : index == 0}" ng-click="changeList(index)">{{obj.category}}</li>
+        </ul>
+        <div class="product-wrapper">
+            <div class="menu-content">
+                <div class="list">
+                    <ul class="itens">
+                        <li class="item" ng-click="handleSelectItem()" ng-mouseover="handleOverItem($event, obj)" ng-class="{active : index == 0}" ng-repeat="(index, obj) in actualList.products" >
+                            <div class="sub">{{actualList.category}}</div>
+                            <div class="title">{{obj.name}}</div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="controlls">
+                    <div class="up-arrow"></div>
+                    <div class="down-arrow"></div>
+                </div>
+            </div>
+
+            <div class="product-content">
+                <div class="wrapper">
+                    <div class="close" ng-click="closeProduct()"></div>
+                    <div class="first-content">
+                        <div class="little-primary">
+                            {{actualList.category}}
+                        </div>
+                        <div class="medium-gray">
+                            {{actualProduct.name}}
+                        </div>
+                        <div class="image" ng-style="styleMenuContent"></div>
+                    </div>
+                </div>
+                <div class="desc">
+                    <div class="wrapper">
+                        <div class="col col-1"> INGREDIENTES</div>
+                        <div class="col col-2">
+                            <ul class="ingredients">
+                                <li ng-repeat="obj in actualProduct.ingredients">{{obj}}</li>
+                            </ul>
+                        </div>
+                        <div class="col col-3">
+                            {{actualProduct.desc}}
+                        </div>
+                    </div>
+                </div>
+                <div class="nutri">
+                    <div class="wrapper">
+                        <div class="title-nutri">TABELA NUTRICIONAL</div>
+                        <ul class="nutri-table">
+                            <li class="title">
+                                <div class="desc">{{actualProduct.name}}</div>
+                                <div class="value">{{actualProduct.quant}}</div>
+                            </li>
+                            <li ng-repeat="obj in actualProduct.nutri">
+                                <div class="desc">{{obj.name}}</div>
+                                <div class="value">{{obj.val}}</div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>

@@ -1,0 +1,53 @@
+{
+  "name": "Purê de Mandioquinha",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"A cozinha típica mineira de um jeito light e saudável para completar o prato.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "MANDIOQUINHA",
+    "LEITE DESNATADO",
+    "AZEITE DE OLIVA EXTRA VIRGEM",
+    "SAL ROSA DO HIMALAIA",
+    "LOURO",
+    "PIMENTA EM GRÃO",
+    "TOMILHO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"128 kcal - 536 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"29g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"1,5g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"0,68g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"0,59g"
+    },
+    {
+      "name":"Sódio",
+      "val":"62mg"
+    }
+  ]
+}

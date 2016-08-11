@@ -1,0 +1,280 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+.buy{
+
+  .finish{
+    width:100%;
+    height:600px;
+    background:#fff;
+    border-bottom:1px solid $secundary-color;
+    position:fixed;
+    top:-505px;
+    z-index:10;
+    transition:all 1s $expo-out;
+    @include flex-center();
+
+    &.active{
+      top:0;
+    }
+
+    .wrapper{
+      width:$max-width;
+      margin:0 auto;
+
+      .left{
+        display:inline-block;
+        vertical-align:top;
+      }
+
+      .right{
+        display:inline-block;
+        vertical-align:top;
+        margin-left:20px;
+        width:49%;
+
+        .buy-list{
+          width:100%;
+
+
+          .buy-item{
+            list-style: none;
+            width:100%;
+
+            &.odd{
+              background:#f7f7f7;
+            }
+
+
+            .name{
+              font-size:12px;
+              color:$primary-color;
+              font-family:$font-primary-regular;
+              display:inline-block;
+              width:454px;
+              padding-left:20px;
+            }
+
+            .quant{
+              font-size:12px;
+              color:$primary-color;
+              font-family:$font-primary-regular;
+              display:inline-block;
+              width: 60px;
+              border-left: 1px solid #ccc;
+              border-right: 1px solid #ccc;
+              text-align: center;
+            }
+
+            .value{
+              font-size:12px;
+              color:$primary-color;
+              font-family:$font-primary-bold;
+              font-weight: bold;
+              display:inline-block;
+              text-align:center;
+              width: 64px;
+            }
+          }
+        }
+      }
+
+      textarea{
+        border:2px solid $primary-color;
+        resize:none;
+        outline:none;
+        vertical-align:top;
+        height: 178px;
+        margin-top: 10px;
+        font-family:$font-primary-regular;
+        color:$primary-color;
+        font-size:15px;
+        width:400px;
+        padding: 0 10px;
+      }
+
+      label{
+        display:inline-block;
+        width:120px;
+        font-family:$font-primary-bold;
+        font-weight: bold;
+        font-size:15px;
+        color:$primary-color;
+        margin:10px 0;
+      }
+
+      input{
+        clear:both;
+        width:450px;
+        border:2px solid $primary-color;
+        margin:10px 0;
+        font-family:$font-primary-regular;
+        color:$primary-color;
+        font-size:15px;
+        padding:0 10px;
+      }
+    }
+
+
+    .wrap-finish{
+      position:absolute;
+      right:30px;
+      bottom:8px;
+
+      .button{
+        padding:15px;
+        color:#fff;
+        background:$primary-color;
+        font-size:15px;
+        font-family:$font-primary-bold;
+        font-weight:bold;
+        border-radius:100px;
+        display:inline-block;
+        cursor:pointer;
+      }
+
+      .total{
+        display:inline-block;
+        color:$primary-color;
+        font-size:15px;
+        font-family:$font-primary-bold;
+        font-weight: bold;
+        margin-right:30px;
+      }
+
+      .loading{
+        font-family:$font-primary-regular;
+        font-size:12px;
+        color:$primary-color;
+      }
+    }
+  }
+
+  .header{
+    width:100%;
+    height: 540px;
+    position:relative;
+    background:url(assets/images/work/background.jpg) no-repeat center center;
+    background-size:cover;
+    @include flex-center;
+
+    .big-uncolor{
+      font-family:$font-primary-bold;
+      font-weight:bold;
+      color:#fff;
+      width:788px;
+      margin:10px auto 0 auto;
+      font-size:50px;
+      text-align: center;
+      line-height:50px;
+
+      @media (max-width:$mob-width){
+        width:90%;
+      }
+    }
+
+    .little-primary{
+      width:100%;
+      text-align:center;
+      font-family:$font-primary-regular;
+      color:$primary-color;
+      font-size:12px;
+    }
+  }
+
+  .content{
+    width:$max-width;
+    margin:50px auto;
+
+    .menu-item{
+      height: 164px;
+      overflow: hidden;
+      translate:all .6s $expo-out;
+
+      &.active{
+        height:auto;
+      }
+
+
+      .button-select{
+        font-family:$font-primary-bold;
+        font-weight: bold;
+        font-size:25px;
+        color:$primary-color;
+        width: 100%;
+        height: 164px;
+        line-height:164px;
+        padding-left:28px;
+        text-transform: uppercase;
+        border-top:solid 1px $secundary-color;
+        border-bottom:solid 1px $secundary-color;
+        background:#f7f7f7;
+
+        &.odd{
+          background:#fff;
+          border:none;
+        }
+      }
+
+      .menu-itens{
+
+        .item{
+          width: 590px;
+          height: 200px;
+          margin: 65px 0;
+          list-style: none;
+          display:inline-block;
+
+          .image{
+            width: 197px;
+            height: 197px;
+            display:inline-block;
+          }
+
+          .wrapper{
+            display:inline-block;
+            margin-left:30px;
+            vertical-align: top;
+            width: 361px;
+            position: relative;
+            height: 100%;
+
+            .title{
+              color:$primary-color;
+              font-family:$font-primary-bold;
+              font-weight: bold;
+              font-size:15px;
+              margin-bottom:24px;
+            }
+
+            .desc{
+              color:$secundary-color;
+              font-family:$font-primary-regular;
+              font-size:14px;
+            }
+
+            .price{
+              color:$primary-color;
+              font-family:$font-primary-regular;
+              font-size:12px;
+              margin-top:20px;
+            }
+
+            .quant{
+              width: 90px;
+              border:2px solid $secundary-color;
+              border-radius:5px;
+              position:absolute;
+              bottom:2px;
+              font-family:$font-primary-regular;
+              font-size:12px;
+              color:$primary-color;
+              padding:10px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+

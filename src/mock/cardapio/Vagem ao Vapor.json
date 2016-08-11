@@ -1,0 +1,49 @@
+{
+  "name": "Vagem ao Vapor",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Ela rejuvenesce, previne contra diabetes e ainda adicionar sabor ao prato.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "VAGEM",
+    "SAL ROSA DO HIMALAIA",
+    "AZEITE DE OLIVA EXTRA VIRGEM"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"34 kcal - 144 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"5,2g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"1,8g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"0,69g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"2,5g"
+    },
+    {
+      "name":"Sódio",
+      "val":"36mg"
+    }
+  ]
+}

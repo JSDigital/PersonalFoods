@@ -1,0 +1,51 @@
+{
+  "name": "Batata Doce Grelhada",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Um tradicional sucesso procurado por quem quer uma dieta saudável e saborosa.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "BATATA DOCE",
+    "SAL ROSA DO HIMALAIA",
+    "AZEITE DE OLIVA EXTRA VIRGEM",
+    "TOMILHO",
+    "PIMENTA BRANCA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"120 kcal - 502 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"28g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"1,3g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"2,5g"
+    },
+    {
+      "name":"Sódio",
+      "val":"15mg"
+    }
+  ]
+}

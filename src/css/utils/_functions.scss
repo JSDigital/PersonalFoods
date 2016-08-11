@@ -1,0 +1,18 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass functions.
+// -----------------------------------------------------------------------------
+
+/// Retorna a URL com uma funcão nativa.
+@function assets($base, $type, $path) {
+  @return url($base + $type + $path);
+}
+
+/// carrega imagens.
+@function image($path, $base: $base-url) {
+  @return asset($base, 'images/', $path);
+}
+
+/// carrega fonts.
+@function font($path, $base: $base-url) {
+  @return asset($base, 'fonts/', $path);
+}

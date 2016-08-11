@@ -1,0 +1,57 @@
+{
+  "name": "Wrap de Maçã Verde com Canela",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Fruta é sempre uma boa pedida, ainda mais em um delicioso e leve wrap.",
+  "quant":"150g",
+  "preco":{
+    "client":11.90,
+    "off":11.90
+  },
+  "ingredients": [
+    "MAÇÃ VERDE",
+    "LEITE DESNATADO",
+    "OVO",
+    "FÉCULA DE MANDIOCA",
+    "LIMÃO TAHITI",
+    "FARINHA DE TRIGO INTEGRAL",
+    "LEITE DESNATADO EM PÓ",
+    "ADOÇANTE CULINÁRIO",
+    "SAL ROSA DO HIMALAIA",
+    "CANELA MOÍDA",
+    "NOZ MOSCADA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"196 kcal - 818 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"37g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"5,6g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"2,6g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"0,64g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"3,2g"
+    },
+    {
+      "name":"Sódio",
+      "val":"70mg"
+    }
+  ]
+}

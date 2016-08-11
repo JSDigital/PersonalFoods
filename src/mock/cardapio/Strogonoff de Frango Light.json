@@ -1,0 +1,56 @@
+{
+  "name": "Strogonoff de Frango Light",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Receita menos calórica e mais saudável de um clássico da culinária brasileira.",
+  "quant":"100g",
+  "preco":{
+    "client":13.90,
+    "off":13.90
+  },
+  "ingredients": [
+    "PEITO DE FRANGO SEM PELE COZIDO",
+    "LEITE DESNATADO UHT",
+    "BIOMASSA DE BANANA VERDE",
+    "SAL ROSA DO HIMALAIA",
+    "PIMENTA BRANCA",
+    "CEBOLA",
+    "TOMATE",
+    "LOURO",
+    "CRAVO",
+    "NOZ MOSCADA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"172 kcal - 718 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"1,3g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"34g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"3,4g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,2g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"0,75g"
+    },
+    {
+      "name":"Sódio",
+      "val":"56mg"
+    }
+  ]
+}

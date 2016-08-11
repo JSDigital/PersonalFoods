@@ -1,0 +1,58 @@
+{
+  "name": "Kibe Assado de Quinua",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Mais leve e saudável que o kibe tradicional. Mas, mantendo um sabor de primeira.",
+  "quant":"100g",
+  "preco":{
+    "client":9.90,
+    "off":9.90
+  },
+  "ingredients": [
+    "CARNE BOVINA (PATINHO)",
+    "QUINUA EM GRÃOS",
+    "FARELO DE AVEIA",
+    "CEBOLA",
+    "OVO",
+    "AZEITE EXTRA VIRGEM",
+    "SAL ROSA DO HIMALAIA",
+    "CEBOLA",
+    "ALHO",
+    "SALSA",
+    "TOMILHO",
+    "HORTELÃ"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"171 kcal - 715 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"9,0g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"17g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"7,5g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,7g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"3,4g"
+    },
+    {
+      "name":"Sódio",
+      "val":"50mg"
+    }
+  ]
+}

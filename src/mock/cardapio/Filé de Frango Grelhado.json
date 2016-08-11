@@ -1,0 +1,49 @@
+{
+  "name": "Filé de Frango Grelhado",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Para um almoço ou jantar saboroso. Excelente opção para combinar com arroz integral e legumes.",
+  "quant":"100g",
+  "preco":{
+    "client":9.90,
+    "off":9.90
+  },
+  "ingredients": [
+    "PEITO DE FRANGO SEM PELE",
+    "SAL ROSA DO HIMALAIA",
+    "TEMPEROS NATURAIS"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"121 kcal - 506 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"Zero"
+    },
+    {
+      "name":"Proteínas",
+      "val":"24g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"2,8g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,0g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"Zero"
+    },
+    {
+      "name":"Sódio",
+      "val":"63mg"
+    }
+  ]
+}

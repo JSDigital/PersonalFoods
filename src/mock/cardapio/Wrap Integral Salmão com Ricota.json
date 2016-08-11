@@ -1,0 +1,57 @@
+{
+  "name": "Wrap Integral Salmão com Ricota",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"O saboroso peixe preparado em um wrap leve e completo para o seu lanche, almoço ou jantar.",
+  "quant":"150g",
+  "preco":{
+    "client":10.90,
+    "off":10.90
+  },
+  "ingredients": [
+    "SALMÃO",
+    "QUEIJO RICOTA",
+    "BIOMASSA DE BANANA VERDE",
+    "FARELO DE AVEIA",
+    "LIMAO",
+    "AZEITE EXTRA VIRGEM",
+    "OVO",
+    "LEITE UHT",
+    "FARINHA DE TRIGO INTEGRAL",
+    "LEITE DESNATADO EM PÓ",
+    "SAL ROSA DO HIMALAIA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"226 kcal - 947 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"13g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"19g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"11g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"3,3g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"2,9g"
+    },
+    {
+      "name":"Sódio",
+      "val":"202mg"
+    }
+  ]
+}

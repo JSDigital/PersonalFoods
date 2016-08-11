@@ -1,0 +1,55 @@
+{
+  "name": " Canja de Galinha II",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Uma opção saudável e nutritiva, a canja de galinha ainda ajuda no controle da pressão.",
+  "quant":"400g",
+  "preco":{
+    "client":12.90,
+    "off":12.90
+  },
+  "ingredients": [
+    "FRANGO",
+    "ARROZ INTEGRAL",
+    "BATATA INGLESA",
+    "CENOURA",
+    "ABOBRINHA ITALIANA",
+    "CEBOLA",
+    "AZEITE EXTRA VIRGEM",
+    "SAL ROSA DO HIMALAIA",
+    "ALHO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"238 kcal - 994 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"29g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"19g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"5,0g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,0g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"3,0g"
+    },
+    {
+      "name":"Sódio",
+      "val":"51mg"
+    }
+  ]
+}

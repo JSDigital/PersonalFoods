@@ -1,0 +1,52 @@
+{
+  "name": "Arroz Integral",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"De falta de sabor você não vai poder reclamar. Nosso arroz integral é feito com ingredientes que dão um toque a mais ao prato.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "ARROZ INTEGRAL",
+    "SAL ROSA DO HIMALAIA",
+    "CEBOLA",
+    "ALHO",
+    "TOMILHO",
+    "LOURO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"310 kcal - 1297 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"66g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"7,4g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"1,9g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"0,28g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"4,6g"
+    },
+    {
+      "name":"Sódio",
+      "val":"16mg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "WRAP INTEGRAL DE FRANGO COM ESPINAFRE E QUEIJO RICOTA",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Para um lanche mais saudável, nosso delicioso wrap de frango com espinafre e ricota é um bom companheiro. Confira também outros sabores de wrap.",
+  "quant":"150g",
+  "preco":{
+    "client":10.90,
+    "off":10.90
+  },
+  "ingredients": [
+    "ESPINAFRE REFOGADO",
+    "PEITO DE FRANGO COZIDO",
+    "QUEIJO RICOTA",
+    "OVO",
+    "LEITE UHT",
+    "FATINHA DE TRIGO INTEGRAL",
+    "LEITE DESNATADO E PÓ",
+    "SAL ROSA DO HIMALAIA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"223 kcal - 934 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"13g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"25g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"8,0g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"2,7g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"2,2g"
+    },
+    {
+      "name":"Sódio",
+      "val":"186mg"
+    }
+  ]
+}

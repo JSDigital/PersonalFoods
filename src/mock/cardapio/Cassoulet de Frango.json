@@ -1,0 +1,58 @@
+{
+  "name": "Cassoulet de Frango",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Para quem nunca provou, uma delícia da culinária francesa que ganhou o toque saudável da Personal Foods.",
+  "quant":"400g",
+  "preco":{
+    "client":12.90,
+    "off":12.90
+  },
+  "ingredients": [
+    "FRANGO",
+    "FEIJÃO BRANCO",
+    "CENOURA",
+    "COUVE MANTEIGA",
+    "CEBOLA",
+    "AZEITE EXTRA VIRGEM",
+    "ALHO",
+    "LIMÃO TAHITI",
+    "SAL ROSA DO HIMALAIA",
+    "ERVA-DOCE",
+    "PIMENTA BRANCA",
+    "LOURO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"337 kcal - 1412 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"34g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"36g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"6,6g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,6g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"6,3"
+    },
+    {
+      "name":"Sódio",
+      "val":"78mg"
+    }
+  ]
+}

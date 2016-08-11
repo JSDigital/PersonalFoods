@@ -1,0 +1,51 @@
+{
+  "name": "Filé de Frango Empanado",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Frango é sempre uma boa pedida para a sua dieta. Ainda mais, se ele é preparado com temperos naturais e ingredientes mais saudáveis.",
+  "quant":"100g",
+  "preco":{
+    "client":12.90,
+    "off":12.90
+  },
+  "ingredients": [
+    "PEITO DE FRANGO SEM PELE",
+    "SAL ROSA DO HIMALAIA",
+    "TEMPEROS NATURAIS",
+    "FARELO DE AVEIA",
+    "OVO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"125 kcal - 522 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"0,58g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"24g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"2,9g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,0g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"Zero"
+    },
+    {
+      "name":"Sódio",
+      "val":"56mg"
+    }
+  ]
+}

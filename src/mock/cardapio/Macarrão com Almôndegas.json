@@ -1,0 +1,52 @@
+{
+  "name": "Macarrão com Almôndegas",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Um prato tradicional da cozinha italiana, com o nosso cuidado em uma porção bem pensada para sua saúde.",
+  "quant":"300g",
+  "ingredients": [
+    "EXT. DE TOMATE",
+    "MACARRÃO INTEGRAL",
+    "CARNE BOVINA",
+    "CEBOLA",
+    "FARELO DE AVEIA",
+    "ALHO",
+    "SAL ROSA DO HIMALAIA",
+    "AZEITE DE OLIVA",
+    "MANJERICÃO",
+    "AÇUCAR DEMERARA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"519 kcal - 2173 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"66g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"31g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"15g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"5,6g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"6,4g"
+    },
+    {
+      "name":"Sódio",
+      "val":"326mg"
+    }
+  ]
+}

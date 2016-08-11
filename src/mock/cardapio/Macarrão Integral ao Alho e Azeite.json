@@ -1,0 +1,51 @@
+{
+  "name": "Macarrão Integral ao Alho e Azeite",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Carboidratos, proteínas e poucas calorias de um jeito realmente saboroso.",
+  "quant":"200g",
+  "preco":{
+    "client":9.90,
+    "off":9.90
+  },
+  "ingredients": [
+    "MACARRÃO INTEGRAL",
+    "AZEITE DE OLIVA EXTRA VIRGEM",
+    "ALHO",
+    "SAL ROSA DO HIMALAIA",
+    "SALSA SECA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"212 kcal - 885 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"39g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"6,6g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"3,4g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"0,50g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"3,6g"
+    },
+    {
+      "name":"Sódio",
+      "val":"8,6mg"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Purê de batata doce",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Para quem mantém uma vida fitness, batata doce não pode faltar. Ainda mais em um delicioso purê.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "BATATA DOCE",
+    "LEITE DESNATADO",
+    "AZEITE DE OLIVA EXTRA VIRGEM",
+    "SAL ROSA DO HIMALAIA",
+    "LOURO",
+    "PIMENTA EM GRÃO",
+    "TOMILHO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"120 kcal - 503 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"28g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"1,3g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"2,6g"
+    },
+    {
+      "name":"Sódio",
+      "val":"10mg"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Purê de abóbora",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Adicione carboidrato e proteínas ao seu prato. O purê é muito bem vindo junto a carne moída ou frango.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "ABÓBORA CABOTIAN",
+    "LEITE DESNATADO",
+    "AZEITE DE OLIVA EXTRA VIRGEM",
+    "SAL ROSA DO HIMALAIA",
+    "LOURO",
+    "PIMENTA EM GRÃO",
+    "TOMILHO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"47 kcal - 195 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"8,3g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"1,4g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"0,88g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"2,2"
+    },
+    {
+      "name":"Sódio",
+      "val":"3,1mg"
+    }
+  ]
+}

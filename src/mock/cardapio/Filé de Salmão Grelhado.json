@@ -1,0 +1,49 @@
+{
+  "name": "Filé de Salmão Grelhado",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Para os amantes de peixe e saúde, uma combinação perfeita.",
+  "quant":"100g",
+  "preco":{
+    "client":14.90,
+    "off":14.90
+  },
+  "ingredients": [
+    "SALMÃO",
+    "AZEITE DE OLIVA EXTRA VIRGEM",
+    "SAL ROSA DO HIMALAIA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"179 kcal - 749 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"Zero"
+    },
+    {
+      "name":"Proteínas",
+      "val":"22g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"10g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,9g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"Zero"
+    },
+    {
+      "name":"Sódio",
+      "val":"111mg"
+    }
+  ]
+}

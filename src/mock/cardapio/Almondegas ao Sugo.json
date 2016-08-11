@@ -1,0 +1,49 @@
+{
+  "name": "Almondegas ao Sugo",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Sozinhas ou para completar algum dos nossos pratos saudáveis, essa é uma boa pedida para sua dieta.",
+  "quant":"100g",
+  "ingredients": [
+    "PATINHO",
+    "FARELO DE AVEIA",
+    "OVO",
+    "CEBOLA",
+    "SAL ROSA DO HIMALAIA",
+    "ALHO",
+    "SALSINHA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"139 kcal - 580 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"3,6g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"20g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"5,0g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,9g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"2,4g"
+    },
+    {
+      "name":"Sódio",
+      "val":"56mg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Macarrão Integral ao Molho Limone",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Um toque siciliano em sua dieta balanceada. Combinação perfeita para almoço ou jantar.",
+  "quant":"200g",
+  "preco":{
+    "client":9.90,
+    "off":9.90
+  },
+  "ingredients": [
+    "MACARRÃO INTEGRAL",
+    "LEITE DESNATADO UHT",
+    "BIOMASSA DE BANANA VERDE",
+    "LIMÃO SICILIANO",
+    "LIMÃO TAHITI",
+    "CEBOLA",
+    "SAL ROSA DO HIMALAIA",
+    "ALHO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"236 kcal - 987 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"49g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"8,1g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"0,96g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"5,5g"
+    },
+    {
+      "name":"Sódio",
+      "val":"13mg"
+    }
+  ]
+}

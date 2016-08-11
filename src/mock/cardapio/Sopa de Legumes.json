@@ -1,0 +1,57 @@
+{
+  "name": "Sopa de Legumes",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Para manter a forma na correria do dia-a- dia, nada como os legumes que você precisa todos juntos.",
+  "quant":"400g",
+  "preco":{
+    "client":12.90,
+    "off":12.90
+  },
+  "ingredients": [
+    "ABOBRINHA ITALIANA",
+    "CENOURA",
+    "ABÓBORA CABOTIAN",
+    "AIPO",
+    "CEBOLA",
+    "AZEITE EXTRA VIRGEM",
+    "SAL ROSA DO HIMALAIA",
+    "ALHO-PORRÓ",
+    "SALSA",
+    "ALHO",
+    "PIMENTA BRANCA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"113 kcal - 472 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"13g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"2,6g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"5,6g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"0,77g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"4,2g"
+    },
+    {
+      "name":"Sódio",
+      "val":"33mg"
+    }
+  ]
+}

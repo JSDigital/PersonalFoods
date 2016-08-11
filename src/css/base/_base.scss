@@ -1,0 +1,72 @@
+// -----------------------------------------------------------------------------
+// This file contains very basic styles.
+// -----------------------------------------------------------------------------
+
+/**
+ * Set up a decent box model on the root element
+ */
+html {
+  box-sizing: border-box;
+  overflow-x:hidden;
+}
+
+div, input, span, button{
+  outline: none;
+}
+
+/**
+ * Make all elements from the DOM inherit from the parent box-sizing
+ * Since `*` has a specificity of 0, it does not override the `html` value
+ * making all elements inheriting from the root box-sizing value
+ * See: https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ */
+*, *::before, *::after {
+  box-sizing: inherit;
+} 
+
+/**
+ * Basic styles for links
+ */
+a {
+  color: $brand-color;
+  text-decoration: none;
+
+  @include on-event {
+    text-decoration: underline;
+  }
+}
+
+
+.little-title-primary{
+  color:$primary-color;
+  font-family:$font-primary-regular;
+  font-size:12px;
+  margin-top:70px;
+  text-align:center;
+}
+
+.little-title-secundary{
+  color:$secundary-color;
+  font-family:$font-primary-regular;
+  font-size:12px;
+  margin-top:70px;
+  text-align:center;
+}
+
+.medium-title-primary{
+  color:$secundary-color;
+  font-family:$font-primary-regular;
+  font-weight: bold;
+  font-size:50px;
+  line-height:50px;
+  text-align:center;
+}
+
+.medium-title-secundary{
+  color:$secundary-color;
+  font-family:$font-primary-regular;
+  line-height:50px;
+  font-weight: bold;
+  font-size:50px;
+  text-align:center;
+}

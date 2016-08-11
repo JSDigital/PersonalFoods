@@ -1,0 +1,52 @@
+{
+  "name": "Frango Desfiado com Vegetais",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Poucas calorias e muito sabor para seu almoço ou jantar saudável.",
+  "quant":"100g",
+  "preco":{
+    "client":9.90,
+    "off":9.90
+  },
+  "ingredients": [
+    "PEITO DE FRANGO SEM PELE COZIDO",
+    "MILHO GRÃO COZIDOS",
+    "ERVILHA SECA COZIDA",
+    "CEBOLA",
+    "SAL ROSA DO HIMALAIA",
+    "ALHO"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"135 kcal - 566 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"6,8g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"22g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"2,4g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"0,75g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"0,89g"
+    },
+    {
+      "name":"Sódio",
+      "val":"27mg"
+    }
+  ]
+}

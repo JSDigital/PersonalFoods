@@ -1,0 +1,56 @@
+{
+  "name": "Wrap Integral de Peito de Peru com Ricota",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Leve, saudável e para comer rapidamente. No lanche ou no almoço, uma ótima sugestão.",
+  "quant":"150g",
+  "preco":{
+    "client":10.90,
+    "off":10.90
+  },
+  "ingredients": [
+    "TOMATE",
+    "PEITO DE PERU",
+    "QUEIJO RICOTA",
+    "AZEITE EXTRA VIRGEM",
+    "TOMILHO",
+    "OVO",
+    "LEITE UHT",
+    "FARINHA DE TRIGO INTEGRAL",
+    "LEITE DESNATADO EM PÓ",
+    "SAL ROSA DO HIMALAIA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"157 kcal - 657 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"9,5g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"15g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"6,7g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"3,8g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"1,4g"
+    },
+    {
+      "name":"Sódio",
+      "val":"405mg"
+    }
+  ]
+}

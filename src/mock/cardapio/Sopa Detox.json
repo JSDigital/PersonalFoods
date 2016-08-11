@@ -1,0 +1,57 @@
+{
+  "name": "Sopa Detox",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Cuidar do organismo pode ser realmente saboroso se você adicionar os temperos certos.",
+  "quant":"400g",
+  "preco":{
+    "client":12.90,
+    "off":12.90
+  },
+  "ingredients": [
+    "ABOBRINHA ITALIANA",
+    "COUVE MANTEIGA",
+    "CENOURA",
+    "INHAME",
+    "TOMATE",
+    "AIPO",
+    "AZEITE EXTRA VIRGEM",
+    "CEBOLA",
+    "SAL ROSA DO HIMALAIA",
+    "SALSA",
+    "GENGIBRE"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"138 kcal - 576 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"16g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"3,4g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"6,8g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"0,92g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"4,2g"
+    },
+    {
+      "name":"Sódio",
+      "val":"34mg"
+    }
+  ]
+}

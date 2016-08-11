@@ -1,0 +1,63 @@
+// -----------------------------------------------------------------------------
+// When having several themes, this file contains everything related to the
+// default one.
+// -----------------------------------------------------------------------------
+.main{
+  transition:opacity 1.4s $expo-out;
+  position:relative;
+}
+.ng-enter       { z-index: 1;position:absolute; top:0; width:100% }
+.ng-leave       { z-index: 2;position:absolute; top:0; width:100% }
+
+.main.ng-enter {
+  //left: 100%;
+  opacity:0;
+  .home{
+    .header{
+      .image{
+        opacity:0;
+      }
+    }
+  }
+
+  //opacity:0;
+}
+
+.main.ng-leave {
+  //left: 0;
+  opacity:1;
+
+  .home{
+    .header{
+      .image{
+        opacity:1;
+      }
+    }
+  }
+}
+
+.main.ng-enter.ng-enter-active {
+  //left: 0;
+  opacity:1;
+
+  .home{
+    .header{
+      .image{
+        opacity:1;
+      }
+    }
+  }
+}
+
+.main.ng-leave.ng-leave-active {
+  //left: -100%;
+  opacity:0;
+
+  .home{
+    .header{
+      .image{
+        opacity:0;
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Carne Bovina Moída (Patinho)",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Uma ótima sugestão para completar nossos legumes a vapor. Confira o cardápio e escolha suas opções.",
+  "quant":"100g",
+  "preco":{
+    "client":11.90,
+    "off":11.90
+  },
+  "ingredients": [
+    "CARNE BOVINA (PATINHO)",
+    "TOMATE",
+    "CEBOLA",
+    "SAL ROSA DO HIMALAIA",
+    "AZEITE DE OLIVA EXTRA VIRGEM",
+    "ALHO",
+    "TOMILHO",
+    "PIMENTA BRANCA E NEGRA",
+    "LOURO",
+    "CEBOLINHA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"103 kcal - 432 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"1,0g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"16g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"3,8g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,5g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"Zero"
+    },
+    {
+      "name":"Sódio",
+      "val":"41mg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Cenoura ao Vapor",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Com poucas calorias, nossa cenoura ao vapor enriquece sua refeição. Uma ótima combinação é a carne moída que você também encontra no cardápio.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "CENOURA COZIDA",
+    "SAL ROSA DO HIMALAIA",
+    "AZEITE DE OLIVA EXTRA VIRGEM"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"36 kcal - 150 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"6,6g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"0,79g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"0,69g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"3,0g"
+    },
+    {
+      "name":"Sódio",
+      "val":"181mg"
+    }
+  ]
+}

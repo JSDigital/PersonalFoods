@@ -1,0 +1,57 @@
+{
+  "name": "Wrap de Brigadeiro Light",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Quem ama chocolate mas mantém a boa forma física e a saúde em dia, uma excelente opção.",
+  "quant":"150g",
+  "preco":{
+    "client":12.90,
+    "off":12.90
+  },
+  "ingredients": [
+    "LEITE DESN.",
+    "CHOCOLATE MEIO AMARGO",
+    "BIOMASSA DE BANANA VERDE",
+    "OVO",
+    "MANTEIGA GHEE",
+    "FARINHA DE TRIGO INTEGRAL",
+    "CACAU EM PÓ",
+    "ESSÊNCIA DE BAUNILHA",
+    "ADOÇANTE",
+    "AÇUCAR DEMERARA",
+    "SAL ROSA DO HIMALAIA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"87 kcal - 366 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"8,6g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"1,8g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"5,1g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"2,5g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"1,3g"
+    },
+    {
+      "name":"Sódio",
+      "val":"24mg"
+    }
+  ]
+}

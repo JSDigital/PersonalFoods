@@ -1,0 +1,163 @@
+// -----------------------------------------------------------------------------
+// This file contains styles that are specific to the home page.
+// -----------------------------------------------------------------------------
+.work{
+  .header{
+    width:100%;
+    height: 540px;
+    position:relative;
+    background:url(assets/images/work/background.jpg) no-repeat center center;
+    background-size:cover;
+    @include flex-center;
+
+    .big-uncolor{
+      font-family:$font-primary-bold;
+      font-weight:bold;
+      color:#fff;
+      width:788px;
+      margin:10px auto 0 auto;
+      font-size:50px;
+      text-align: center;
+      line-height:50px;
+
+      @media (max-width:$mob-width){
+        width:90%;
+      }
+
+    }
+
+    .little-primary{
+      width:100%;
+      text-align:center;
+      font-family:$font-primary-regular;
+      color:$primary-color;
+      font-size:12px;
+
+      @media (max-width:$mob-width){
+        font-size:22px;
+      }
+    }
+  }
+
+
+  .content{
+    width:100%;
+    height:1080px;
+
+    .content-left{
+      height: 100%;
+      width:50%;
+      float:left;
+      background:$primary-color;
+
+      .text{
+        float:right;
+        width:$max-width / 2;
+        height: 100%;
+
+        .box{
+          margin:170px 0 0 50px;
+          width: 470px;
+
+          @media (max-width:$mob-width){
+            width: 90%;
+            margin:140px auto 0 auto;
+          }
+        }
+
+        @media (max-width:$mob-width){
+          width:100%;
+          margin:0 auto;
+          float:none;
+          height:auto;
+        }
+      }
+
+      @media (max-width:$mob-width){
+        width:100%;
+      }
+    }
+
+    .content-right{
+      height: 100%;
+      width:50%;
+      float:left;
+
+
+      .form{
+        float:left;
+        width:$max-width / 2;
+        height:100%;
+        @include flex-center();
+
+        label{
+          display:block;
+          color:$primary-color;
+          font-family:$font-primary-bold;
+          font-weight: bold;
+          font-size:14px;
+        }
+
+        input{
+          border:none;
+          border-bottom:solid 2px $primary-color;
+          width: 394px;
+          margin-bottom:50px;
+        }
+
+        .send-button{
+          width:214px;
+          height: 65px;
+          background:$primary-color;
+          color:#fff;
+          line-height:65px;
+          text-align:center;
+          font-family: $font-primary-regular;
+          font-size:14px;
+          border-radius:100px;
+          cursor:pointer;
+          margin-top:60px;
+          transition:all .6s $expo-out;
+
+          &:hover{
+            background:$primary-hover;
+          }
+        }
+
+        @media (max-width:$mob-width){
+          width:100%;
+        }
+      }
+
+      @media (max-width:$mob-width){
+        width:100%;
+      }
+    }
+
+    @media (max-width:$mob-width){
+      height: 590px;
+    }
+  }
+
+  .big-uncolor{
+    font-family:$font-primary-bold;
+    font-weight:bold;
+    color:#fff;
+    width:430px;
+    margin:10px 0 0 0;
+    font-size:50px;
+    text-align: left;
+    line-height:50px;
+  }
+
+
+  .little-uncolor{
+    width:430px;
+    text-align:left;
+    font-family:$font-primary-regular;
+    color:#fff;
+    font-size:12px;
+    margin:50px 0 0 0;
+  }
+}
+

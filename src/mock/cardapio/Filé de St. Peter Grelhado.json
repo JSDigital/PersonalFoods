@@ -1,0 +1,51 @@
+{
+  "name": "Filé de St. Peter Grelhado",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Peixe temperado na medida para surpreender o seu paladar e manter a boa forma.",
+  "quant":"100g",
+  "preco":{
+    "client":13.90,
+    "off":13.90
+  },
+  "ingredients": [
+    "ST. PETER",
+    "SAL ROSA DO HIMALAIA",
+    "AZEITE DE OLIVA EXTRA VIRGEM",
+    "TOMILHO",
+    "PIMENTA BRANCA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"127 kcal - 532 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"Zero"
+    },
+    {
+      "name":"Proteínas",
+      "val":"27g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"2,2g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,0g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"Zero"
+    },
+    {
+      "name":"Sódio",
+      "val":"61mg"
+    }
+  ]
+}

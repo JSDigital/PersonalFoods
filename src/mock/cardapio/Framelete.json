@@ -1,0 +1,54 @@
+{
+  "name": "Framelete",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Saudável, saboroso e nutritivo: nosso omelete de frango fará sucesso na sua mesa.",
+  "quant":"100g",
+  "preco":{
+    "client":9.90,
+    "off":9.90
+  },
+  "ingredients": [
+    "FRANGO COZIDO DESFIADO",
+    "OVO DE GALINHA",
+    "TOMATE",
+    "SAL ROSA DO HIMALAIA",
+    "CEBOLA",
+    "SALSA",
+    "ALHO",
+    "PIMENTA BRANCA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"108 kcal - 450 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"1,9g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"12g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"5,8g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"1,7g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"Zero"
+    },
+    {
+      "name":"Sódio",
+      "val":"110mg"
+    }
+  ]
+}

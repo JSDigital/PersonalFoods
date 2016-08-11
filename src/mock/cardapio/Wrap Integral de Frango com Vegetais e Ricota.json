@@ -1,0 +1,58 @@
+{
+  "name": "Wrap Integral de Frango com Vegetais e Ricota",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Um lanche completo com legumes selecionados e frango bem temperado.",
+  "quant":"150g",
+  "preco":{
+    "client":10.90,
+    "off":10.90
+  },
+  "ingredients": [
+    "PEITO DE FRANGO COZIDO",
+    "QUEIJO RICOTA",
+    "CENOURA",
+    "MILHO",
+    "ALHO",
+    "CEBOLA",
+    "AZEITE EXTRA VIRGEM",
+    "OVO",
+    "LEITE UHT",
+    "FARINHA DE TRIGO INTEGRAL",
+    "LEITE DESNATADO EM PÓ",
+    "SAL ROSA DO HIMALAIA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"217 kcal - 909 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"14g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"21g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"8,6g"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"3,2g"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"1,6g"
+    },
+    {
+      "name":"Sódio",
+      "val":"202mg"
+    }
+  ]
+}

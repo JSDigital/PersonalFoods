@@ -1,0 +1,48 @@
+{
+  "name": "Brócolis ao Vapor",
+  "image":"http://lorempixel.com/800/600/food/1/",
+  "desc":"Para o almoço ou jantar, o legume completa bem um prato balanceado e saudável.",
+  "quant":"100g",
+  "preco":{
+    "client":3.90,
+    "off":3.90
+  },
+  "ingredients": [
+    "BRÓCOLIS COZIDO",
+    "SAL ROSA DO HIMALAIA"
+  ],
+  "nutri":[
+    {
+      "name":"Valor energético",
+      "val":"30 kcal - 127 kJ"
+    },
+    {
+      "name":"Carboidratos",
+      "val":"4,4g"
+    },
+    {
+      "name":"Proteínas",
+      "val":"2,1g"
+    },
+    {
+      "name":"Gorduras totais",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras saturadas",
+      "val":"Zero"
+    },
+    {
+      "name":"Gorduras trans",
+      "val":"Zero"
+    },
+    {
+      "name":"Fibra alimentar",
+      "val":"3,1g"
+    },
+    {
+      "name":"Sódio",
+      "val":"176mg"
+    }
+  ]
+}
