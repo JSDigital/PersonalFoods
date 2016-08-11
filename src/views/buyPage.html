@@ -38,7 +38,9 @@
         </div>
         <div class="content">
             <div class="menu-item active"  ng-repeat="(index, obj) in menuContent">
-                <div class="button-select" ng-class="{odd : index % 2}">{{obj.category}}</div>
+                <div class="button-select" ng-class="{odd : index % 2}">
+                    <div class="wrapper-select">{{obj.category}}</div>
+                </div>
                 <ul class="menu-itens">
                     <li class="item" ng-repeat="(i, item) in obj.products">
                         <div class="image" ng-style="{'background':'url('+item.image+') no-repeat center center', 'backgroundSize':'cover'}"></div>

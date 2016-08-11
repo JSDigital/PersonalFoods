@@ -25,6 +25,20 @@
       .left{
         display:inline-block;
         vertical-align:top;
+
+        @media (max-width: $max-width)
+        {
+          display: block;
+          width: 576px;
+          margin: -60px auto 0 auto;
+        }
+
+        @media (max-width: $tablet)
+        {
+          display:block;
+          width:90%;
+          margin:-80px auto 0 auto;
+        }
       }
 
       .right{
@@ -34,6 +48,22 @@
         width:49%;
         overflow-y: auto;
         height: 412px;
+
+        @media (max-width: $max-width)
+        {
+          display: block;
+          margin: 0 auto;
+          width: 90%;
+          height: 300px;
+        }
+
+        @media (max-width: $tablet)
+        {
+          display:block;
+          width:90%;
+          margin:0 auto;
+          height: 300px;
+        }
 
         .buy-list{
           width:100%;
@@ -55,6 +85,11 @@
               display:inline-block;
               width:437px;
               padding-left:20px;
+
+              @media (max-width: $max-width)
+              {
+                width: 70%;
+              }
             }
 
             .quant{
@@ -66,6 +101,11 @@
               border-left: 1px solid #ccc;
               border-right: 1px solid #ccc;
               text-align: center;
+
+              @media (max-width: $max-width)
+              {
+                width: 10%;
+              }
             }
 
             .value{
@@ -76,6 +116,11 @@
               display:inline-block;
               text-align:center;
               width: 64px;
+
+              @media (max-width: $max-width)
+              {
+                width: 20%;
+              }
             }
           }
         }
@@ -114,6 +159,11 @@
         color:$primary-color;
         font-size:15px;
         padding:0 10px;
+
+        @media (max-width: $tablet)
+        {
+          width:70%;
+        }
       }
     }
 
@@ -185,7 +235,7 @@
   }
 
   .content{
-    width:$max-width;
+    width:100%;
     margin:50px auto;
 
     .menu-item{
@@ -212,6 +262,11 @@
         border-bottom:solid 1px $secundary-color;
         background:#f7f7f7;
 
+        .wrapper-select{
+          width:$max-width;
+          margin: 0 auto;
+        }
+
         &.odd{
           //background:#fff;
           //border:none;
@@ -219,6 +274,13 @@
       }
 
       .menu-itens{
+        width: $max-width;
+        margin: 0 auto;
+
+        @media (max-width: $max-width)
+        {
+          width: 97%;
+        }
 
         .item{
           width: 590px;
@@ -227,10 +289,28 @@
           list-style: none;
           display:inline-block;
 
+          @media (max-width: $max-width)
+          {
+            width:50%;
+          }
+
+          @media (max-width: $tablet)
+          {
+            width:90%;
+            margin: 65px auto;
+            display: block;
+          }
+
+
+
           .image{
             width: 197px;
             height: 197px;
             display:inline-block;
+            @media (max-width: $tablet)
+            {
+              width: 40%;
+            }
           }
 
           .wrapper{
@@ -240,6 +320,16 @@
             width: 361px;
             position: relative;
             height: 100%;
+
+            @media (max-width: $max-width)
+            {
+              width:47%;
+            }
+
+            @media (max-width: $tablet)
+            {
+              width: calc(60% - 30px);
+            }
 
             .title{
               color:$primary-color;
