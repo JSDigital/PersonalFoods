@@ -32,6 +32,8 @@
         vertical-align:top;
         margin-left:20px;
         width:49%;
+        overflow-y: auto;
+        height: 412px;
 
         .buy-list{
           width:100%;
@@ -51,7 +53,7 @@
               color:$primary-color;
               font-family:$font-primary-regular;
               display:inline-block;
-              width:454px;
+              width:437px;
               padding-left:20px;
             }
 
